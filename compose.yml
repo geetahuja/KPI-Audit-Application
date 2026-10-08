@@ -1,0 +1,31 @@
+services:
+  api:
+    build: .
+    ports: ["127.0.0.1:8000:8000"]
+    environment:
+      DATABASE_URL: postgresql://kpi:${POSTGRES_PASSWORD:?Set POSTGRES_PASSWORD}@db/kpi
+      KPI_ENCRYPTION_KEY: ${KPI_ENCRYPTION_KEY:?Set a Fernet encryption key}
+      KPI_USERS_JSON: ${KPI_USERS_JSON:?Set users with token_sha256 role and companies}
+      KPI_RETENTION_DAYS: ${KPI_RETENTION_DAYS:-30}
+    depends_on:
+      db:
+        condition: service_healthy
+    read_only: true
+    tmpfs: ["/tmp:size=512m,mode=1777"]
+    cap_drop: ["ALL"]
+    security_opt: ["no-new-privileges:true"]
+    mem_limit: 2g
+  db:
+    image: postgres:18-alpine
+    environment:
+      POSTGRES_DB: kpi
+      POSTGRES_USER: kpi
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:?Set POSTGRES_PASSWORD}
+    volumes: ["postgres:/var/lib/postgresql"]
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U kpi -d kpi"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+volumes:
+  postgres:

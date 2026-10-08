@@ -1,0 +1,11 @@
+node_modules/
+__pycache__/
+.venv/
+.env
+data/
+uploads/
+*.xlsx
+*.xls
+*.db
+*.log
+coverage/

@@ -1,0 +1,100 @@
+{
+  "version": "1.0.0",
+  "testDate": "2026-10-07",
+  "engineTests": 13,
+  "engineTestsPassed": 13,
+  "browserVisualQA": "Unavailable: required browser skill not available",
+  "apiIntegration": "Not run: FastAPI/PostgreSQL service dependencies unavailable",
+  "workbooks": [
+    {
+      "name": "Advent Engineers G12 KPIs Sheet MCLS.xlsx",
+      "role": "MCLS",
+      "sheets": 17,
+      "coverage": {
+        "verified": 239,
+        "blocked": 146,
+        "failed": 0
+      },
+      "criticalRootCauseGroups": 2,
+      "technicalGroups": 6,
+      "formulaGroups": 0,
+      "kpiLogicGroups": 0,
+      "note": "Counts are detected groups, not independently confirmed business errors. Review items and technical artifacts are separate."
+    },
+    {
+      "name": "Advent Engineers G12 Master KPIs Sheet.xlsx",
+      "role": "Master",
+      "sheets": 31,
+      "coverage": {
+        "verified": 218,
+        "blocked": 146,
+        "failed": 0
+      },
+      "criticalRootCauseGroups": 3,
+      "technicalGroups": 9,
+      "formulaGroups": 12,
+      "kpiLogicGroups": 5,
+      "note": "Counts are detected groups, not independently confirmed business errors. Review items and technical artifacts are separate."
+    },
+    {
+      "name": "Entech Controls G12 KPIs Sheet MCLS.xlsx",
+      "role": "MCLS",
+      "sheets": 21,
+      "coverage": {
+        "verified": 524,
+        "blocked": 115,
+        "failed": 0
+      },
+      "criticalRootCauseGroups": 0,
+      "technicalGroups": 7,
+      "formulaGroups": 0,
+      "kpiLogicGroups": 0,
+      "note": "Counts are detected groups, not independently confirmed business errors. Review items and technical artifacts are separate."
+    },
+    {
+      "name": "Entech Controls G12 Master KPIs Sheet.xlsx",
+      "role": "Master",
+      "sheets": 33,
+      "coverage": {
+        "verified": 349,
+        "blocked": 140,
+        "failed": 0
+      },
+      "criticalRootCauseGroups": 1,
+      "technicalGroups": 9,
+      "formulaGroups": 11,
+      "kpiLogicGroups": 7,
+      "note": "Counts are detected groups, not independently confirmed business errors. Review items and technical artifacts are separate."
+    },
+    {
+      "name": "R & D Therm India Pvt Ltd G12 KPIs Sheet MCLS (1).xlsx",
+      "role": "MCLS",
+      "sheets": 18,
+      "coverage": {
+        "verified": 252,
+        "blocked": 113,
+        "failed": 0
+      },
+      "criticalRootCauseGroups": 14,
+      "technicalGroups": 8,
+      "formulaGroups": 0,
+      "kpiLogicGroups": 0,
+      "note": "Counts are detected groups, not independently confirmed business errors. Review items and technical artifacts are separate."
+    },
+    {
+      "name": "R & D Therm India Pvt Ltd G12 Master KPIs Sheet.xlsx",
+      "role": "Master",
+      "sheets": 30,
+      "coverage": {
+        "verified": 186,
+        "blocked": 113,
+        "failed": 35
+      },
+      "criticalRootCauseGroups": 17,
+      "technicalGroups": 11,
+      "formulaGroups": 3,
+      "kpiLogicGroups": 5,
+      "note": "Counts are detected groups, not independently confirmed business errors. Review items and technical artifacts are separate."
+    }
+  ]
+}

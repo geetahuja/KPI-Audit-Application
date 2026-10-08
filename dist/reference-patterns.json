@@ -1,0 +1,4889 @@
+[
+  {
+    "sheet": "Phase2-Lead Time",
+    "label": "WAL20658-1GA",
+    "unit": 1.0,
+    "examples": [
+      {
+        "cell": "F7",
+        "formula": "=if(and(D7<>\"\",E7<>\"\"),E7-D7,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Phase2-Lead Time",
+    "label": "WAL20658-1GA",
+    "unit": 2.0,
+    "examples": [
+      {
+        "cell": "F8",
+        "formula": "=if(and(D8<>\"\",E8<>\"\"),E8-D8,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Phase2-Lead Time",
+    "label": "WAL51298-2 CA",
+    "unit": 3.0,
+    "examples": [
+      {
+        "cell": "F9",
+        "formula": "=if(and(D9<>\"\",E9<>\"\"),E9-D9,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Phase2-Lead Time",
+    "label": "M385SRDTMH+ACCESSORIES",
+    "unit": 4.0,
+    "examples": [
+      {
+        "cell": "F10",
+        "formula": "=if(and(D10<>\"\",E10<>\"\"),E10-D10,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Phase2-Lead Time",
+    "label": "M230SRDTMH+ACCESSORIES",
+    "unit": 5.0,
+    "examples": [
+      {
+        "cell": "F11",
+        "formula": "=if(and(D11<>\"\",E11<>\"\"),E11-D11,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Phase2-Lead Time",
+    "label": "M700SRRSMH+ACCESSORIES",
+    "unit": 6.0,
+    "examples": [
+      {
+        "cell": "F12",
+        "formula": "=if(and(D12<>\"\",E12<>\"\"),E12-D12,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Phase2-Lead Time",
+    "label": "WAL20658-1GA",
+    "unit": 7.0,
+    "examples": [
+      {
+        "cell": "F13",
+        "formula": "=if(and(D13<>\"\",E13<>\"\"),E13-D13,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Phase2-Lead Time",
+    "label": "WAL20658-4 DA",
+    "unit": 8.0,
+    "examples": [
+      {
+        "cell": "F14",
+        "formula": "=if(and(D14<>\"\",E14<>\"\"),E14-D14,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Phase2-Lead Time",
+    "label": "WAL20658-4 DA",
+    "unit": 9.0,
+    "examples": [
+      {
+        "cell": "F15",
+        "formula": "=if(and(D15<>\"\",E15<>\"\"),E15-D15,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Phase2-Lead Time",
+    "label": "WAL20658-1GA",
+    "unit": 10.0,
+    "examples": [
+      {
+        "cell": "F16",
+        "formula": "=if(and(D16<>\"\",E16<>\"\"),E16-D16,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Phase2-Lead Time",
+    "label": "M700SRD",
+    "unit": 12.0,
+    "examples": [
+      {
+        "cell": "F18",
+        "formula": "=if(and(D18<>\"\",E18<>\"\"),E18-D18,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Phase2-Lead Time",
+    "label": "M700SRRSMH",
+    "unit": 13.0,
+    "examples": [
+      {
+        "cell": "F19",
+        "formula": "=if(and(D19<>\"\",E19<>\"\"),E19-D19,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Phase2-Lead Time",
+    "label": "WAL20658-4 DA",
+    "unit": 14.0,
+    "examples": [
+      {
+        "cell": "F20",
+        "formula": "=if(and(D20<>\"\",E20<>\"\"),E20-D20,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Phase2-Lead Time",
+    "label": "M385SRR",
+    "unit": 15.0,
+    "examples": [
+      {
+        "cell": "F21",
+        "formula": "=if(and(D21<>\"\",E21<>\"\"),E21-D21,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Phase2-Lead Time",
+    "label": "M385SRD",
+    "unit": 16.0,
+    "examples": [
+      {
+        "cell": "F22",
+        "formula": "=if(and(D22<>\"\",E22<>\"\"),E22-D22,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Phase2-Lead Time",
+    "label": "M960SRRSMH",
+    "unit": 17.0,
+    "examples": [
+      {
+        "cell": "F23",
+        "formula": "=if(and(D23<>\"\",E23<>\"\"),E23-D23,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Phase2-Lead Time",
+    "label": "WAL20658-4 DA",
+    "unit": 18.0,
+    "examples": [
+      {
+        "cell": "F24",
+        "formula": "=if(and(D24<>\"\",E24<>\"\"),E24-D24,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Phase2-Lead Time",
+    "label": "WAL51298-2 CA",
+    "unit": 19.0,
+    "examples": [
+      {
+        "cell": "F25",
+        "formula": "=if(and(D25<>\"\",E25<>\"\"),E25-D25,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Phase2-Lead Time",
+    "label": "M1400SRR",
+    "unit": 20.0,
+    "examples": [
+      {
+        "cell": "F26",
+        "formula": "=if(and(D26<>\"\",E26<>\"\"),E26-D26,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Phase2-Lead Time",
+    "label": "M385SRD",
+    "unit": 21.0,
+    "examples": [
+      {
+        "cell": "F27",
+        "formula": "=if(and(D27<>\"\",E27<>\"\"),E27-D27,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Phase2-Lead Time",
+    "label": "M230SRR",
+    "unit": 22.0,
+    "examples": [
+      {
+        "cell": "F28",
+        "formula": "=if(and(D28<>\"\",E28<>\"\"),E28-D28,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Phase2-Lead Time",
+    "label": "WAL51298-2 CA",
+    "unit": 23.0,
+    "examples": [
+      {
+        "cell": "F29",
+        "formula": "=if(and(D29<>\"\",E29<>\"\"),E29-D29,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Phase2-Lead Time",
+    "label": "WAL20658-4 DA",
+    "unit": 24.0,
+    "examples": [
+      {
+        "cell": "F30",
+        "formula": "=if(and(D30<>\"\",E30<>\"\"),E30-D30,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Phase2-Lead Time",
+    "label": "M960SRR",
+    "unit": 25.0,
+    "examples": [
+      {
+        "cell": "F31",
+        "formula": "=if(and(D31<>\"\",E31<>\"\"),E31-D31,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Phase2-Lead Time",
+    "label": "M385SRR",
+    "unit": 26.0,
+    "examples": [
+      {
+        "cell": "F32",
+        "formula": "=if(and(D32<>\"\",E32<>\"\"),E32-D32,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Phase2-Lead Time",
+    "label": "M385SRD",
+    "unit": 27.0,
+    "examples": [
+      {
+        "cell": "F33",
+        "formula": "=if(and(D33<>\"\",E33<>\"\"),E33-D33,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Phase2-Lead Time",
+    "label": "M700SRD",
+    "unit": 28.0,
+    "examples": [
+      {
+        "cell": "F34",
+        "formula": "=if(and(D34<>\"\",E34<>\"\"),E34-D34,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Phase2-Lead Time",
+    "label": "M230SRR",
+    "unit": 29.0,
+    "examples": [
+      {
+        "cell": "F35",
+        "formula": "=if(and(D35<>\"\",E35<>\"\"),E35-D35,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Phase2-Lead Time",
+    "label": "WAL51298-2 CA",
+    "unit": 30.0,
+    "examples": [
+      {
+        "cell": "F36",
+        "formula": "=if(and(D36<>\"\",E36<>\"\"),E36-D36,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Phase2-Lead Time",
+    "label": "WAL20658-4 DA",
+    "unit": 31.0,
+    "examples": [
+      {
+        "cell": "F37",
+        "formula": "=if(and(D37<>\"\",E37<>\"\"),E37-D37,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Phase2-Lead Time",
+    "label": "M230SRR",
+    "unit": 32.0,
+    "examples": [
+      {
+        "cell": "F38",
+        "formula": "=if(and(D38<>\"\",E38<>\"\"),E38-D38,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Phase2-Lead Time",
+    "label": "M700SRD",
+    "unit": 33.0,
+    "examples": [
+      {
+        "cell": "F39",
+        "formula": "=if(and(D39<>\"\",E39<>\"\"),E39-D39,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Phase2-Lead Time",
+    "label": "M1400SRR",
+    "unit": 34.0,
+    "examples": [
+      {
+        "cell": "F40",
+        "formula": "=if(and(D40<>\"\",E40<>\"\"),E40-D40,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Phase2-Lead Time",
+    "label": "M385SRD",
+    "unit": 35.0,
+    "examples": [
+      {
+        "cell": "F41",
+        "formula": "=if(and(D41<>\"\",E41<>\"\"),E41-D41,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Phase2-Lead Time",
+    "label": "M385SRR",
+    "unit": 36.0,
+    "examples": [
+      {
+        "cell": "F42",
+        "formula": "=if(and(D42<>\"\",E42<>\"\"),E42-D42,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Phase2-Lead Time",
+    "label": "M700SRR",
+    "unit": 37.0,
+    "examples": [
+      {
+        "cell": "F43",
+        "formula": "=if(and(D43<>\"\",E43<>\"\"),E43-D43,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Phase2-Lead Time",
+    "label": "M1400SRD",
+    "unit": 38.0,
+    "examples": [
+      {
+        "cell": "F44",
+        "formula": "=if(and(D44<>\"\",E44<>\"\"),E44-D44,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Phase2-Lead Time",
+    "label": "M230SRR",
+    "unit": 39.0,
+    "examples": [
+      {
+        "cell": "F45",
+        "formula": "=if(and(D45<>\"\",E45<>\"\"),E45-D45,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Phase2-Lead Time",
+    "label": "M385SRR",
+    "unit": 40.0,
+    "examples": [
+      {
+        "cell": "F46",
+        "formula": "=if(and(D46<>\"\",E46<>\"\"),E46-D46,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Phase2-Lead Time",
+    "label": "M700SRR",
+    "unit": 41.0,
+    "examples": [
+      {
+        "cell": "F47",
+        "formula": "=if(and(D47<>\"\",E47<>\"\"),E47-D47,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Phase2-Lead Time",
+    "label": "M700SRR",
+    "unit": 42.0,
+    "examples": [
+      {
+        "cell": "F48",
+        "formula": "=if(and(D48<>\"\",E48<>\"\"),E48-D48,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Phase2-Lead Time",
+    "label": "WAL51298-2 CA",
+    "unit": 43.0,
+    "examples": [
+      {
+        "cell": "F49",
+        "formula": "=if(and(D49<>\"\",E49<>\"\"),E49-D49,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Phase2-Lead Time",
+    "label": "WAL20658-1GA",
+    "unit": 44.0,
+    "examples": [
+      {
+        "cell": "F50",
+        "formula": "=if(and(D50<>\"\",E50<>\"\"),E50-D50,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Phase2-Lead Time",
+    "label": "WAL20658-4 DA",
+    "unit": 45.0,
+    "examples": [
+      {
+        "cell": "F51",
+        "formula": "=if(and(D51<>\"\",E51<>\"\"),E51-D51,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Phase2-Lead Time",
+    "label": "M230SRR",
+    "unit": 46.0,
+    "examples": [
+      {
+        "cell": "F52",
+        "formula": "=if(and(D52<>\"\",E52<>\"\"),E52-D52,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Phase2-Lead Time",
+    "label": "M385SRR",
+    "unit": 47.0,
+    "examples": [
+      {
+        "cell": "F53",
+        "formula": "=if(and(D53<>\"\",E53<>\"\"),E53-D53,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Phase2-Lead Time",
+    "label": "DN25GCV300#RF-2WAY-CF8M-EXTENDED BONNET-M174SRR",
+    "unit": 48.0,
+    "examples": [
+      {
+        "cell": "F54",
+        "formula": "=if(and(D54<>\"\",E54<>\"\"),E54-D54,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Phase2-Lead Time",
+    "label": "DN50CV150#RF-2WAY-WCB-M174SRR",
+    "unit": 49.0,
+    "examples": [
+      {
+        "cell": "F55",
+        "formula": "=if(and(D55<>\"\",E55<>\"\"),E55-D55,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Phase2-Lead Time",
+    "label": "M700SRR",
+    "unit": 50.0,
+    "examples": [
+      {
+        "cell": "F56",
+        "formula": "=if(and(D56<>\"\",E56<>\"\"),E56-D56,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Phase2-Lead Time",
+    "label": "WAL51298-3 CA",
+    "unit": 51.0,
+    "examples": [
+      {
+        "cell": "F57",
+        "formula": "=if(and(D57<>\"\",E57<>\"\"),E57-D57,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Phase2-Lead Time",
+    "label": "WAL51298-3 CA",
+    "unit": 52.0,
+    "examples": [
+      {
+        "cell": "F58",
+        "formula": "=if(and(D58<>\"\",E58<>\"\"),E58-D58,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Phase2-Lead Time",
+    "label": "M385SRD",
+    "unit": 54.0,
+    "examples": [
+      {
+        "cell": "F60",
+        "formula": "=if(and(D60<>\"\",E60<>\"\"),E60-D60,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Phase2-Lead Time",
+    "label": "M700SRR",
+    "unit": 55.0,
+    "examples": [
+      {
+        "cell": "F61",
+        "formula": "=if(and(D61<>\"\",E61<>\"\"),E61-D61,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Phase2-Lead Time",
+    "label": "M385SRR",
+    "unit": 56.0,
+    "examples": [
+      {
+        "cell": "F62",
+        "formula": "=if(and(D62<>\"\",E62<>\"\"),E62-D62,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Phase2-Lead Time",
+    "label": "M700SRR",
+    "unit": 57.0,
+    "examples": [
+      {
+        "cell": "F63",
+        "formula": "=if(and(D63<>\"\",E63<>\"\"),E63-D63,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Phase2-Lead Time",
+    "label": "M385SRR",
+    "unit": 58.0,
+    "examples": [
+      {
+        "cell": "F64",
+        "formula": "=if(and(D64<>\"\",E64<>\"\"),E64-D64,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Phase2-Lead Time",
+    "label": "F-15210-HOD",
+    "unit": 59.0,
+    "examples": [
+      {
+        "cell": "F65",
+        "formula": "=if(and(D65<>\"\",E65<>\"\"),E65-D65,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "HR Development",
+    "label": "5S",
+    "unit": 1.0,
+    "examples": [
+      {
+        "cell": "F4",
+        "formula": "=if(and(D4<>\"\",E4<>\"\"),D4*E4,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "HR Development",
+    "label": "Others - 8 Waste",
+    "unit": 2.0,
+    "examples": [
+      {
+        "cell": "F5",
+        "formula": "=if(and(D5<>\"\",E5<>\"\"),D5*E5,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "HR Development",
+    "label": "Kaizen",
+    "unit": 3.0,
+    "examples": [
+      {
+        "cell": "F6",
+        "formula": "=if(and(D6<>\"\",E6<>\"\"),D6*E6,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "HR Development",
+    "label": "Visual Control/ Visual Management",
+    "unit": 4.0,
+    "examples": [
+      {
+        "cell": "F7",
+        "formula": "=if(and(D7<>\"\",E7<>\"\"),D7*E7,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "HR Development",
+    "label": "SOPs",
+    "unit": 5.0,
+    "examples": [
+      {
+        "cell": "F8",
+        "formula": "=if(and(D8<>\"\",E8<>\"\"),D8*E8,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "HR Development",
+    "label": "Others - Daily Work Management",
+    "unit": 6.0,
+    "examples": [
+      {
+        "cell": "F9",
+        "formula": "=if(and(D9<>\"\",E9<>\"\"),D9*E9,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "HR Development",
+    "label": "Others - 8 Waste",
+    "unit": 1.0,
+    "examples": [
+      {
+        "cell": "F15",
+        "formula": "=if(and(D15<>\"\",E15<>\"\"),D15*E15,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "HR Development",
+    "label": "Basics of lean",
+    "unit": 2.0,
+    "examples": [
+      {
+        "cell": "F16",
+        "formula": "=if(and(D16<>\"\",E16<>\"\"),D16*E16,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "HR Development",
+    "label": "Quality Improvement/ Poka-Yoke",
+    "unit": 3.0,
+    "examples": [
+      {
+        "cell": "F17",
+        "formula": "=if(and(D17<>\"\",E17<>\"\"),D17*E17,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Lead Time",
+    "label": "SVT-PO-095-2023-24",
+    "unit": 1.0,
+    "examples": [
+      {
+        "cell": "F4",
+        "formula": "=IF(AND(E4<>\"\",D4<>\"\"),E4-D4,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Lead Time",
+    "label": "PO27456",
+    "unit": 2.0,
+    "examples": [
+      {
+        "cell": "F5",
+        "formula": "=IF(AND(E5<>\"\",D5<>\"\"),E5-D5,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Lead Time",
+    "label": "WVCDX-PO-24-00188",
+    "unit": 3.0,
+    "examples": [
+      {
+        "cell": "F6",
+        "formula": "=IF(AND(E6<>\"\",D6<>\"\"),E6-D6,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Lead Time",
+    "label": "WVCDX-PO-24-00188",
+    "unit": 4.0,
+    "examples": [
+      {
+        "cell": "F7",
+        "formula": "=IF(AND(E7<>\"\",D7<>\"\"),E7-D7,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Lead Time",
+    "label": "D02301917",
+    "unit": 5.0,
+    "examples": [
+      {
+        "cell": "F8",
+        "formula": "=IF(AND(E8<>\"\",D8<>\"\"),E8-D8,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Lead Time",
+    "label": "WVCDX-PO-24-00280",
+    "unit": 6.0,
+    "examples": [
+      {
+        "cell": "F9",
+        "formula": "=IF(AND(E9<>\"\",D9<>\"\"),E9-D9,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Lead Time",
+    "label": "R137772",
+    "unit": 7.0,
+    "examples": [
+      {
+        "cell": "F10",
+        "formula": "=IF(AND(E10<>\"\",D10<>\"\"),E10-D10,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Lead Time",
+    "label": "R140141",
+    "unit": 8.0,
+    "examples": [
+      {
+        "cell": "F11",
+        "formula": "=IF(AND(E11<>\"\",D11<>\"\"),E11-D11,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Lead Time",
+    "label": "DEV231022248",
+    "unit": 9.0,
+    "examples": [
+      {
+        "cell": "F12",
+        "formula": "=IF(AND(E12<>\"\",D12<>\"\"),E12-D12,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Lead Time",
+    "label": "WVCDX-PO-24-00273",
+    "unit": 10.0,
+    "examples": [
+      {
+        "cell": "F13",
+        "formula": "=IF(AND(E13<>\"\",D13<>\"\"),E13-D13,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Lead Time",
+    "label": "Average lead time for VSM product family (In Days)",
+    "unit": "(Nos)",
+    "examples": [
+      {
+        "cell": "D17",
+        "formula": "=IF('Data Add Sheet'!M39<>\"\",'Data Add Sheet'!M39,\"\")"
+      },
+      {
+        "cell": "E17",
+        "formula": "=IF('Data Add Sheet'!N39<>\"\",'Data Add Sheet'!N39,\"\")"
+      },
+      {
+        "cell": "F17",
+        "formula": "=IF('Data Add Sheet'!O39<>\"\",'Data Add Sheet'!O39,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Lead Time",
+    "label": "Baseline for lead time of VSM Product Family (In Days)",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D18",
+        "formula": "=$F$14"
+      },
+      {
+        "cell": "E18",
+        "formula": "=$F$14"
+      },
+      {
+        "cell": "F18",
+        "formula": "=$F$14"
+      }
+    ]
+  },
+  {
+    "sheet": "Lead Time",
+    "label": "For The Month (FTM)",
+    "unit": "(Nos)",
+    "examples": [
+      {
+        "cell": "D20",
+        "formula": "=IF(D17<>\"\",D17,\"\")"
+      },
+      {
+        "cell": "E20",
+        "formula": "=IF(E17<>\"\",E17,\"\")"
+      },
+      {
+        "cell": "F20",
+        "formula": "=IF(F17<>\"\",F17,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Data Changes",
+    "label": "#DIV/0!",
+    "unit": "#DIV/0!",
+    "examples": [
+      {
+        "cell": "D24",
+        "formula": "=(D8-D13)/D21"
+      },
+      {
+        "cell": "E24",
+        "formula": "=(E8-E13)/E21"
+      },
+      {
+        "cell": "F24",
+        "formula": "=(F8-F13)/F21"
+      }
+    ]
+  },
+  {
+    "sheet": "Productivity (1)",
+    "label": "Sales value excl. taxes",
+    "unit": "(In Rs.)",
+    "examples": [
+      {
+        "cell": "D3",
+        "formula": "=IF('Data Add Sheet'!G3<>\"\",'Data Add Sheet'!G3,\"\")"
+      },
+      {
+        "cell": "E3",
+        "formula": "=IF('Data Add Sheet'!H3<>\"\",'Data Add Sheet'!H3,\"\")"
+      },
+      {
+        "cell": "F3",
+        "formula": "=IF('Data Add Sheet'!I3<>\"\",'Data Add Sheet'!I3,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Productivity (1)",
+    "label": "Material cost of products sold",
+    "unit": "(In %)",
+    "examples": [
+      {
+        "cell": "D4",
+        "formula": "=IF('Data Add Sheet'!G4<>\"\",'Data Add Sheet'!G4,\"\")"
+      },
+      {
+        "cell": "E4",
+        "formula": "=IF('Data Add Sheet'!H4<>\"\",'Data Add Sheet'!H4,\"\")"
+      },
+      {
+        "cell": "F4",
+        "formula": "=IF('Data Add Sheet'!I4<>\"\",'Data Add Sheet'!I4,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Productivity (1)",
+    "label": "Material cost of products sold",
+    "unit": "(In Rs.)",
+    "examples": [
+      {
+        "cell": "D5",
+        "formula": "=IF(AND(D3<>\"\",D4<>\"\"),D3*D4/100,\"\")"
+      },
+      {
+        "cell": "E5",
+        "formula": "=IF(AND(E3<>\"\",E4<>\"\"),E3*E4/100,\"\")"
+      },
+      {
+        "cell": "F5",
+        "formula": "=IF(AND(F3<>\"\",F4<>\"\"),F3*F4/100,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Productivity (1)",
+    "label": "Salaries",
+    "unit": "Expenses (In Rs.)",
+    "examples": [
+      {
+        "cell": "D6",
+        "formula": "=IF('Data Add Sheet'!G9<>\"\",'Data Add Sheet'!G9,\"\")"
+      },
+      {
+        "cell": "E6",
+        "formula": "=IF('Data Add Sheet'!H9<>\"\",'Data Add Sheet'!H9,\"\")"
+      },
+      {
+        "cell": "F6",
+        "formula": "=IF('Data Add Sheet'!I9<>\"\",'Data Add Sheet'!I9,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Productivity (1)",
+    "label": "Wages",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D7",
+        "formula": "=IF('Data Add Sheet'!G10<>\"\",'Data Add Sheet'!G10,\"\")"
+      },
+      {
+        "cell": "E7",
+        "formula": "=IF('Data Add Sheet'!H10<>\"\",'Data Add Sheet'!H10,\"\")"
+      },
+      {
+        "cell": "F7",
+        "formula": "=IF('Data Add Sheet'!I10<>\"\",'Data Add Sheet'!I10,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Productivity (1)",
+    "label": "Energy consumption",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D8",
+        "formula": "=IF('Data Add Sheet'!G11<>\"\",'Data Add Sheet'!G11,\"\")"
+      },
+      {
+        "cell": "E8",
+        "formula": "=IF('Data Add Sheet'!H11<>\"\",'Data Add Sheet'!H11,\"\")"
+      },
+      {
+        "cell": "F8",
+        "formula": "=IF('Data Add Sheet'!I11<>\"\",'Data Add Sheet'!I11,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Productivity (1)",
+    "label": "Fuel",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D9",
+        "formula": "=IF('Data Add Sheet'!G12<>\"\",'Data Add Sheet'!G12,\"\")"
+      },
+      {
+        "cell": "E9",
+        "formula": "=IF('Data Add Sheet'!H12<>\"\",'Data Add Sheet'!H12,\"\")"
+      },
+      {
+        "cell": "F9",
+        "formula": "=IF('Data Add Sheet'!I12<>\"\",'Data Add Sheet'!I12,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Productivity (1)",
+    "label": "Consumables",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D10",
+        "formula": "=IF('Data Add Sheet'!G13<>\"\",'Data Add Sheet'!G13,\"\")"
+      },
+      {
+        "cell": "E10",
+        "formula": "=IF('Data Add Sheet'!H13<>\"\",'Data Add Sheet'!H13,\"\")"
+      },
+      {
+        "cell": "F10",
+        "formula": "=IF('Data Add Sheet'!I13<>\"\",'Data Add Sheet'!I13,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Productivity (1)",
+    "label": "Maintenance Cost",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D11",
+        "formula": "=IF('Data Add Sheet'!G14<>\"\",'Data Add Sheet'!G14,\"\")"
+      },
+      {
+        "cell": "E11",
+        "formula": "=IF('Data Add Sheet'!H14<>\"\",'Data Add Sheet'!H14,\"\")"
+      },
+      {
+        "cell": "F11",
+        "formula": "=IF('Data Add Sheet'!I14<>\"\",'Data Add Sheet'!I14,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Productivity (1)",
+    "label": "Outsource Expenses (In Rs.)",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D12",
+        "formula": "=IF('Data Add Sheet'!G15<>\"\",'Data Add Sheet'!G15,\"\")"
+      },
+      {
+        "cell": "E12",
+        "formula": "=IF('Data Add Sheet'!H15<>\"\",'Data Add Sheet'!H15,\"\")"
+      },
+      {
+        "cell": "F12",
+        "formula": "=IF('Data Add Sheet'!I15<>\"\",'Data Add Sheet'!I15,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Productivity (1)",
+    "label": "Other Expenses (In Rs.)",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D13",
+        "formula": "=IF('Data Add Sheet'!G16<>\"\",'Data Add Sheet'!G16,\"\")"
+      },
+      {
+        "cell": "E13",
+        "formula": "=IF('Data Add Sheet'!H16<>\"\",'Data Add Sheet'!H16,\"\")"
+      },
+      {
+        "cell": "F13",
+        "formula": "=IF('Data Add Sheet'!I16<>\"\",'Data Add Sheet'!I16,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Productivity (1)",
+    "label": "Throughput",
+    "unit": "(In Rs.)",
+    "examples": [
+      {
+        "cell": "D14",
+        "formula": "=IF(AND(D3<>\"\",D4<>\"\"),D3-D5,\"\")"
+      },
+      {
+        "cell": "E14",
+        "formula": "=IF(AND(E3<>\"\",E4<>\"\"),E3-E5,\"\")"
+      },
+      {
+        "cell": "F14",
+        "formula": "=IF(AND(F3<>\"\",F4<>\"\"),F3-F5,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Productivity (1)",
+    "label": "Operating Expenses",
+    "unit": "(In Rs.)",
+    "examples": [
+      {
+        "cell": "D15",
+        "formula": "=IF(OR(D6<>\"\",D7<>\"\",D8<>\"\",D9<>\"\",D10<>\"\",D13<>\"\"),SUM(D6:D13),\"\")"
+      },
+      {
+        "cell": "E15",
+        "formula": "=IF(OR(E6<>\"\",E7<>\"\",E8<>\"\",E9<>\"\",E10<>\"\",E13<>\"\"),SUM(E6:E13),\"\")"
+      },
+      {
+        "cell": "F15",
+        "formula": "=IF(OR(F6<>\"\",F7<>\"\",F8<>\"\",F9<>\"\",F10<>\"\",F13<>\"\"),SUM(F6:F13),\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Productivity (1)",
+    "label": "For The Month (FTM)",
+    "unit": "Ratio",
+    "examples": [
+      {
+        "cell": "D16",
+        "formula": "=IF(AND(D14<>\"\",D15<>\"\"),D14/D15,\"\")"
+      },
+      {
+        "cell": "E16",
+        "formula": "=IF(AND(E14<>\"\",E15<>\"\"),E14/E15,\"\")"
+      },
+      {
+        "cell": "F16",
+        "formula": "=IF(AND(F14<>\"\",F15<>\"\"),F14/F15,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Productivity (1)",
+    "label": "Sales value excl. taxes (Cum.)",
+    "unit": "Cumulative",
+    "examples": [
+      {
+        "cell": "D17",
+        "formula": "=IF(D3<>\"\",D3,\"\")"
+      },
+      {
+        "cell": "E17",
+        "formula": "=IF((E3<>\"\")*AND(D17<>\"\"),D17+E3,\"\")"
+      },
+      {
+        "cell": "F17",
+        "formula": "=IF((F3<>\"\")*AND(E17<>\"\"),E17+F3,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Productivity (1)",
+    "label": "Material cost of products sold (Cum.)",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D18",
+        "formula": "=IF(D17<>\"\",D5,\"\")"
+      },
+      {
+        "cell": "E18",
+        "formula": "=IF(AND(D18<>\"\",E5<>\"\"),E5+D18,\"\")"
+      },
+      {
+        "cell": "F18",
+        "formula": "=IF(AND(E18<>\"\",F5<>\"\"),F5+E18,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Productivity (1)",
+    "label": "Salaries (Cum.)",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D19",
+        "formula": "=IF(D6<>\"\",D6,\"\")"
+      },
+      {
+        "cell": "E19",
+        "formula": "=IF((E6<>\"\")*AND(D19<>\"\"),D19+E6,\"\")"
+      },
+      {
+        "cell": "F19",
+        "formula": "=IF((F6<>\"\")*AND(E19<>\"\"),E19+F6,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Productivity (1)",
+    "label": "Wages (Cum.)",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D20",
+        "formula": "=IF(D7<>\"\",D7,\"\")"
+      },
+      {
+        "cell": "E20",
+        "formula": "=IF((E7<>\"\")*AND(D20<>\"\"),D20+E7,\"\")"
+      },
+      {
+        "cell": "F20",
+        "formula": "=IF((F7<>\"\")*AND(E20<>\"\"),E20+F7,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Productivity (1)",
+    "label": "Energy consumption (Cum.)",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D21",
+        "formula": "=IF(D8<>\"\",D8,\"\")"
+      },
+      {
+        "cell": "E21",
+        "formula": "=IF((E8<>\"\")*AND(D21<>\"\"),D21+E8,\"\")"
+      },
+      {
+        "cell": "F21",
+        "formula": "=IF((F8<>\"\")*AND(E21<>\"\"),E21+F8,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Productivity (1)",
+    "label": "Fuel (Cum.)",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D22",
+        "formula": "=IF(D9<>\"\",D9,\"\")"
+      },
+      {
+        "cell": "E22",
+        "formula": "=IF((E9<>\"\")*AND(D22<>\"\"),D22+E9,\"\")"
+      },
+      {
+        "cell": "F22",
+        "formula": "=IF((F9<>\"\")*AND(E22<>\"\"),E22+F9,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Productivity (1)",
+    "label": "Consumables (Cum.)",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D23",
+        "formula": "=IF(D10<>\"\",D10,\"\")"
+      },
+      {
+        "cell": "E23",
+        "formula": "=IF((E10<>\"\")*AND(D23<>\"\"),D23+E10,\"\")"
+      },
+      {
+        "cell": "F23",
+        "formula": "=IF((F10<>\"\")*AND(E23<>\"\"),E23+F10,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Productivity (1)",
+    "label": "Maintenance (Cum.)",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D24",
+        "formula": "=IF(D13<>\"\",D13,\"\")"
+      },
+      {
+        "cell": "E24",
+        "formula": "=IF((E13<>\"\")*AND(D24<>\"\"),D24+E13,\"\")"
+      },
+      {
+        "cell": "F24",
+        "formula": "=IF((F13<>\"\")*AND(E24<>\"\"),E24+F13,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Productivity (1)",
+    "label": "Throughput (Cum.)",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D25",
+        "formula": "=IF(D14<>\"\",D14,\"\")"
+      },
+      {
+        "cell": "E25",
+        "formula": "=IF((E14<>\"\")*AND(D25<>\"\"),D25+E14,\"\")"
+      },
+      {
+        "cell": "F25",
+        "formula": "=IF((F14<>\"\")*AND(E25<>\"\"),E25+F14,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Productivity (1)",
+    "label": "Operating Expenses (Cum.)",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D26",
+        "formula": "=IF(D15<>\"\",D15,\"\")"
+      },
+      {
+        "cell": "E26",
+        "formula": "=IF((E15<>\"\")*AND(D26<>\"\"),D26+E15,\"\")"
+      },
+      {
+        "cell": "F26",
+        "formula": "=IF((F15<>\"\")*AND(E26<>\"\"),E26+F15,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Productivity (1)",
+    "label": "Year To Date (YTD)",
+    "unit": "Ratio",
+    "examples": [
+      {
+        "cell": "D27",
+        "formula": "=IF(AND(D25<>\"\",D26<>\"\"),D25/D26,\"\")"
+      },
+      {
+        "cell": "E27",
+        "formula": "=IF(AND(E25<>\"\",E26<>\"\"),E25/E26,\"\")"
+      },
+      {
+        "cell": "F27",
+        "formula": "=IF(AND(F25<>\"\",F26<>\"\"),F25/F26,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Productivity (1)",
+    "label": "For The Month (FTM)",
+    "unit": "Ratio",
+    "examples": [
+      {
+        "cell": "D29",
+        "formula": "=IF(D16<>\"\",D16,NA())"
+      },
+      {
+        "cell": "E29",
+        "formula": "=IF(E16<>\"\",E16,NA())"
+      },
+      {
+        "cell": "F29",
+        "formula": "=IF(F16<>\"\",F16,NA())"
+      }
+    ]
+  },
+  {
+    "sheet": "Productivity (1)",
+    "label": "Year To Date (YTD)",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D30",
+        "formula": "=IF(D27<>\"\",D27,NA())"
+      },
+      {
+        "cell": "E30",
+        "formula": "=IF(E27<>\"\",E27,NA())"
+      },
+      {
+        "cell": "F30",
+        "formula": "=IF(F27<>\"\",F27,NA())"
+      }
+    ]
+  },
+  {
+    "sheet": "Productivity (1)",
+    "label": "Target",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D31",
+        "formula": "=IFERROR(IF('KPIs Dashboard'!D6<>\"\",'KPIs Dashboard'!D6,NA()),\" \")"
+      },
+      {
+        "cell": "E31",
+        "formula": "=IFERROR(IF('KPIs Dashboard'!E6<>\"\",'KPIs Dashboard'!E6,NA()),\" \")"
+      },
+      {
+        "cell": "F31",
+        "formula": "=IFERROR(IF('KPIs Dashboard'!F6<>\"\",'KPIs Dashboard'!F6,NA()),\" \")"
+      }
+    ]
+  },
+  {
+    "sheet": "Productivity (2)",
+    "label": "Sales value excl. taxes",
+    "unit": "(In Rs.)",
+    "examples": [
+      {
+        "cell": "D3",
+        "formula": "=IF('Data Add Sheet'!G3<>\"\",'Data Add Sheet'!G3,\"\")"
+      },
+      {
+        "cell": "E3",
+        "formula": "=IF('Data Add Sheet'!H3<>\"\",'Data Add Sheet'!H3,\"\")"
+      },
+      {
+        "cell": "F3",
+        "formula": "=IF('Data Add Sheet'!I3<>\"\",'Data Add Sheet'!I3,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Productivity (2)",
+    "label": "Total Opening Stock in (Rs.)",
+    "unit": "(In Rs.)",
+    "examples": [
+      {
+        "cell": "D4",
+        "formula": "=IF('Data Add Sheet'!G6<>\"\",'Data Add Sheet'!G6,\"\")"
+      },
+      {
+        "cell": "E4",
+        "formula": "=IF('Data Add Sheet'!H6<>\"\",'Data Add Sheet'!H6,\"\")"
+      },
+      {
+        "cell": "F4",
+        "formula": "=IF('Data Add Sheet'!I6<>\"\",'Data Add Sheet'!I6,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Productivity (2)",
+    "label": "Total of Receipts in (Rs.)",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D5",
+        "formula": "=IF('Data Add Sheet'!G7<>\"\",'Data Add Sheet'!G7,\"\")"
+      },
+      {
+        "cell": "E5",
+        "formula": "=IF('Data Add Sheet'!H7<>\"\",'Data Add Sheet'!H7,\"\")"
+      },
+      {
+        "cell": "F5",
+        "formula": "=IF('Data Add Sheet'!I7<>\"\",'Data Add Sheet'!I7,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Productivity (2)",
+    "label": "Total Closing Stock in (Rs.)",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D6",
+        "formula": "=IF('Data Add Sheet'!G8<>\"\",'Data Add Sheet'!G8,\"\")"
+      },
+      {
+        "cell": "E6",
+        "formula": "=IF('Data Add Sheet'!H8<>\"\",'Data Add Sheet'!H8,\"\")"
+      },
+      {
+        "cell": "F6",
+        "formula": "=IF('Data Add Sheet'!I8<>\"\",'Data Add Sheet'!I8,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Productivity (2)",
+    "label": "Material Consumption in (Rs.)",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D7",
+        "formula": "=IFERROR(((D4+D5)-D6),\"\")"
+      },
+      {
+        "cell": "E7",
+        "formula": "=IFERROR(((E4+E5)-E6),\"\")"
+      },
+      {
+        "cell": "F7",
+        "formula": "=IFERROR(((F4+F5)-F6),\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Productivity (2)",
+    "label": "Salaries",
+    "unit": "Expenses (In Rs.)",
+    "examples": [
+      {
+        "cell": "D8",
+        "formula": "=IF('Data Add Sheet'!G9<>\"\",'Data Add Sheet'!G9,\"\")"
+      },
+      {
+        "cell": "E8",
+        "formula": "=IF('Data Add Sheet'!H9<>\"\",'Data Add Sheet'!H9,\"\")"
+      },
+      {
+        "cell": "F8",
+        "formula": "=IF('Data Add Sheet'!I9<>\"\",'Data Add Sheet'!I9,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Productivity (2)",
+    "label": "Wages",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D9",
+        "formula": "=IF('Data Add Sheet'!G10<>\"\",'Data Add Sheet'!G10,\"\")"
+      },
+      {
+        "cell": "E9",
+        "formula": "=IF('Data Add Sheet'!H10<>\"\",'Data Add Sheet'!H10,\"\")"
+      },
+      {
+        "cell": "F9",
+        "formula": "=IF('Data Add Sheet'!I10<>\"\",'Data Add Sheet'!I10,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Productivity (2)",
+    "label": "Energy consumption",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D10",
+        "formula": "=IF('Data Add Sheet'!G11<>\"\",'Data Add Sheet'!G11,\"\")"
+      },
+      {
+        "cell": "E10",
+        "formula": "=IF('Data Add Sheet'!H11<>\"\",'Data Add Sheet'!H11,\"\")"
+      },
+      {
+        "cell": "F10",
+        "formula": "=IF('Data Add Sheet'!I11<>\"\",'Data Add Sheet'!I11,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Productivity (2)",
+    "label": "Fuel",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D11",
+        "formula": "=IF('Data Add Sheet'!G12<>\"\",'Data Add Sheet'!G12,\"\")"
+      },
+      {
+        "cell": "E11",
+        "formula": "=IF('Data Add Sheet'!H12<>\"\",'Data Add Sheet'!H12,\"\")"
+      },
+      {
+        "cell": "F11",
+        "formula": "=IF('Data Add Sheet'!I12<>\"\",'Data Add Sheet'!I12,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Productivity (2)",
+    "label": "Consumables",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D12",
+        "formula": "=IF('Data Add Sheet'!G13<>\"\",'Data Add Sheet'!G13,\"\")"
+      },
+      {
+        "cell": "E12",
+        "formula": "=IF('Data Add Sheet'!H13<>\"\",'Data Add Sheet'!H13,\"\")"
+      },
+      {
+        "cell": "F12",
+        "formula": "=IF('Data Add Sheet'!I13<>\"\",'Data Add Sheet'!I13,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Productivity (2)",
+    "label": "Maintenance Cost",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D13",
+        "formula": "=IF('Data Add Sheet'!G14<>\"\",'Data Add Sheet'!G14,\"\")"
+      },
+      {
+        "cell": "E13",
+        "formula": "=IF('Data Add Sheet'!H14<>\"\",'Data Add Sheet'!H14,\"\")"
+      },
+      {
+        "cell": "F13",
+        "formula": "=IF('Data Add Sheet'!I14<>\"\",'Data Add Sheet'!I14,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Productivity (2)",
+    "label": "Outsource Expenses (In Rs.)",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D14",
+        "formula": "=IF('Data Add Sheet'!G15<>\"\",'Data Add Sheet'!G15,\"\")"
+      },
+      {
+        "cell": "E14",
+        "formula": "=IF('Data Add Sheet'!H15<>\"\",'Data Add Sheet'!H15,\"\")"
+      },
+      {
+        "cell": "F14",
+        "formula": "=IF('Data Add Sheet'!I15<>\"\",'Data Add Sheet'!I15,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Productivity (2)",
+    "label": "Other Expenses (In Rs.)",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D15",
+        "formula": "=IF('Data Add Sheet'!G16<>\"\",'Data Add Sheet'!G16,\"\")"
+      },
+      {
+        "cell": "E15",
+        "formula": "=IF('Data Add Sheet'!H16<>\"\",'Data Add Sheet'!H16,\"\")"
+      },
+      {
+        "cell": "F15",
+        "formula": "=IF('Data Add Sheet'!I16<>\"\",'Data Add Sheet'!I16,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Productivity (2)",
+    "label": "Throughput",
+    "unit": "(In Rs.)",
+    "examples": [
+      {
+        "cell": "D17",
+        "formula": "=IF(AND(D3<>\"\",D7<>0),D3-D7,\"\")"
+      },
+      {
+        "cell": "E17",
+        "formula": "=IF(AND(E3<>\"\",E7<>0),E3-E7,\"\")"
+      },
+      {
+        "cell": "F17",
+        "formula": "=IF(AND(F3<>\"\",F7<>0),F3-F7,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Productivity (2)",
+    "label": "Operating Expenses",
+    "unit": "(In Rs.)",
+    "examples": [
+      {
+        "cell": "D18",
+        "formula": "=IF(OR(D8<>\"\",D9<>\"\",D10<>\"\",D11<>\"\",D12<>\"\",D15<>\"\"),SUM(D8:D15),\"\")"
+      },
+      {
+        "cell": "E18",
+        "formula": "=IF(OR(E8<>\"\",E9<>\"\",E10<>\"\",E11<>\"\",E12<>\"\",E15<>\"\"),SUM(E8:E15),\"\")"
+      },
+      {
+        "cell": "F18",
+        "formula": "=IF(OR(F8<>\"\",F9<>\"\",F10<>\"\",F11<>\"\",F12<>\"\",F15<>\"\"),SUM(F8:F15),\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Productivity (2)",
+    "label": "For The Month (FTM)",
+    "unit": "Ratio",
+    "examples": [
+      {
+        "cell": "D19",
+        "formula": "=IF(AND(D17<>\"\",D18<>\"\"),D17/D18,\"\")"
+      },
+      {
+        "cell": "E19",
+        "formula": "=IF(AND(E17<>\"\",E18<>\"\"),E17/E18,\"\")"
+      },
+      {
+        "cell": "F19",
+        "formula": "=IF(AND(F17<>\"\",F18<>\"\"),F17/F18,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Productivity (2)",
+    "label": "Sales value excl. taxes (Cum.)",
+    "unit": "Cumulative",
+    "examples": [
+      {
+        "cell": "D20",
+        "formula": "=IF(D3<>\"\",D3,\"\")"
+      },
+      {
+        "cell": "E20",
+        "formula": "=IF((E3<>\"\")*AND(D20<>\"\"),D20+E3,\"\")"
+      },
+      {
+        "cell": "F20",
+        "formula": "=IF((F3<>\"\")*AND(E20<>\"\"),E20+F3,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Productivity (2)",
+    "label": "Opening Stock in (Rs.)",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D21",
+        "formula": "=IF(D4<>\"\",D4,\"\")"
+      },
+      {
+        "cell": "E21",
+        "formula": "=IF((E4<>\"\")*AND(D21<>\"\"),D21+E4,\"\")"
+      },
+      {
+        "cell": "F21",
+        "formula": "=IF((F4<>\"\")*AND(E21<>\"\"),E21+F4,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Productivity (2)",
+    "label": "Total of Receipts in (Rs.)",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D22",
+        "formula": "=IF(D5<>\"\",D5,\"\")"
+      },
+      {
+        "cell": "E22",
+        "formula": "=IF((E5<>\"\")*AND(D22<>\"\"),D22+E5,\"\")"
+      },
+      {
+        "cell": "F22",
+        "formula": "=IF((F5<>\"\")*AND(E22<>\"\"),E22+F5,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Productivity (2)",
+    "label": "Closing Stock in (Rs.)",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D23",
+        "formula": "=IF(D6<>\"\",D6,\"\")"
+      },
+      {
+        "cell": "E23",
+        "formula": "=IF((E6<>\"\")*AND(D23<>\"\"),D23+E6,\"\")"
+      },
+      {
+        "cell": "F23",
+        "formula": "=IF((F6<>\"\")*AND(E23<>\"\"),E23+F6,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Productivity (2)",
+    "label": "Material Consumption in (Rs.) (Cum.)",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D24",
+        "formula": "=IF(D7<>\"\",D7,\"\")"
+      },
+      {
+        "cell": "E24",
+        "formula": "=IF(AND(D24<>\"\",E7<>\"\"),D24+E7,\"\")"
+      },
+      {
+        "cell": "F24",
+        "formula": "=IF(AND(E24<>\"\",F7<>\"\"),E24+F7,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Productivity (2)",
+    "label": "Salaries (Cum.)",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D25",
+        "formula": "=IF(D8<>\"\",D8,\"\")"
+      },
+      {
+        "cell": "E25",
+        "formula": "=IF((E8<>\"\")*AND(D25<>\"\"),D25+E8,\"\")"
+      },
+      {
+        "cell": "F25",
+        "formula": "=IF((F8<>\"\")*AND(E25<>\"\"),E25+F8,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Productivity (2)",
+    "label": "Wages (Cum.)",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D26",
+        "formula": "=IF(D9<>\"\",D9,\"\")"
+      },
+      {
+        "cell": "E26",
+        "formula": "=IF((E9<>\"\")*AND(D26<>\"\"),D26+E9,\"\")"
+      },
+      {
+        "cell": "F26",
+        "formula": "=IF((F9<>\"\")*AND(E26<>\"\"),E26+F9,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Productivity (2)",
+    "label": "Energy consumption (Cum.)",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D27",
+        "formula": "=IF(D10<>\"\",D10,\"\")"
+      },
+      {
+        "cell": "E27",
+        "formula": "=IF((E10<>\"\")*AND(D27<>\"\"),D27+E10,\"\")"
+      },
+      {
+        "cell": "F27",
+        "formula": "=IF((F10<>\"\")*AND(E27<>\"\"),E27+F10,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Productivity (2)",
+    "label": "Fuel (Cum.)",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D28",
+        "formula": "=IF(D11<>\"\",D11,\"\")"
+      },
+      {
+        "cell": "E28",
+        "formula": "=IF((E11<>\"\")*AND(D28<>\"\"),D28+E11,\"\")"
+      },
+      {
+        "cell": "F28",
+        "formula": "=IF((F11<>\"\")*AND(E28<>\"\"),E28+F11,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Productivity (2)",
+    "label": "Consumables (Cum.)",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D29",
+        "formula": "=IF(D12<>\"\",D12,\"\")"
+      },
+      {
+        "cell": "E29",
+        "formula": "=IF((E12<>\"\")*AND(D29<>\"\"),D29+E12,\"\")"
+      },
+      {
+        "cell": "F29",
+        "formula": "=IF((F12<>\"\")*AND(E29<>\"\"),E29+F12,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Productivity (2)",
+    "label": "Maintenance (Cum.)",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D30",
+        "formula": "=IF(D15<>\"\",D15,\"\")"
+      },
+      {
+        "cell": "E30",
+        "formula": "=IF((E15<>\"\")*AND(D30<>\"\"),D30+E15,\"\")"
+      },
+      {
+        "cell": "F30",
+        "formula": "=IF((F15<>\"\")*AND(E30<>\"\"),E30+F15,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Productivity (2)",
+    "label": "Throughput (Cum.)",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D31",
+        "formula": "=IF(D17<>\"\",D17,\"\")"
+      },
+      {
+        "cell": "E31",
+        "formula": "=IF((E17<>\"\")*AND(D31<>\"\"),D31+E17,\"\")"
+      },
+      {
+        "cell": "F31",
+        "formula": "=IF((F17<>\"\")*AND(E31<>\"\"),E31+F17,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Productivity (2)",
+    "label": "Operating Expenses (Cum.)",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D32",
+        "formula": "=IF(D18<>\"\",D18,\"\")"
+      },
+      {
+        "cell": "E32",
+        "formula": "=IF((E18<>\"\")*AND(D32<>\"\"),D32+E18,\"\")"
+      },
+      {
+        "cell": "F32",
+        "formula": "=IF((F18<>\"\")*AND(E32<>\"\"),E32+F18,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Productivity (2)",
+    "label": "Year To Date (YTD)",
+    "unit": "Ratio",
+    "examples": [
+      {
+        "cell": "D33",
+        "formula": "=IF(AND(D31<>\"\",D32<>\"\"),D31/D32,\"\")"
+      },
+      {
+        "cell": "E33",
+        "formula": "=IF(AND(E31<>\"\",E32<>\"\"),E31/E32,\"\")"
+      },
+      {
+        "cell": "F33",
+        "formula": "=IF(AND(F31<>\"\",F32<>\"\"),F31/F32,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Productivity (2)",
+    "label": "For The Month (FTM)",
+    "unit": "Ratio",
+    "examples": [
+      {
+        "cell": "D35",
+        "formula": "=IF(D19<>\"\",D19,NA())"
+      },
+      {
+        "cell": "E35",
+        "formula": "=IF(E19<>\"\",E19,NA())"
+      },
+      {
+        "cell": "F35",
+        "formula": "=IF(F19<>\"\",F19,NA())"
+      }
+    ]
+  },
+  {
+    "sheet": "Productivity (2)",
+    "label": "Year To Date (YTD)",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D36",
+        "formula": "=IF(D33<>\"\",D33,NA())"
+      },
+      {
+        "cell": "E36",
+        "formula": "=IF(E33<>\"\",E33,NA())"
+      },
+      {
+        "cell": "F36",
+        "formula": "=IF(F33<>\"\",F33,NA())"
+      }
+    ]
+  },
+  {
+    "sheet": "Productivity (2)",
+    "label": "Target",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D37",
+        "formula": "=IFERROR(IF('KPIs Dashboard'!D25<>\"\",'KPIs Dashboard'!D25,NA()),\" \")"
+      },
+      {
+        "cell": "E37",
+        "formula": "=IFERROR(IF('KPIs Dashboard'!E25<>\"\",'KPIs Dashboard'!E25,NA()),\" \")"
+      },
+      {
+        "cell": "F37",
+        "formula": "=IFERROR(IF('KPIs Dashboard'!F25<>\"\",'KPIs Dashboard'!F25,NA()),\" \")"
+      }
+    ]
+  },
+  {
+    "sheet": "ROI",
+    "label": "Throughput",
+    "unit": "(In Rs.)",
+    "examples": [
+      {
+        "cell": "D3",
+        "formula": "='Productivity (1)'!D14"
+      },
+      {
+        "cell": "E3",
+        "formula": "='Productivity (1)'!E14"
+      },
+      {
+        "cell": "F3",
+        "formula": "='Productivity (1)'!F14"
+      }
+    ]
+  },
+  {
+    "sheet": "ROI",
+    "label": "Operating Expenses",
+    "unit": "(In Rs.)",
+    "examples": [
+      {
+        "cell": "D4",
+        "formula": "='Productivity (1)'!D15"
+      },
+      {
+        "cell": "E4",
+        "formula": "='Productivity (1)'!E15"
+      },
+      {
+        "cell": "F4",
+        "formula": "='Productivity (1)'!F15"
+      }
+    ]
+  },
+  {
+    "sheet": "ROI",
+    "label": "Net Profit",
+    "unit": "(In Rs.)",
+    "examples": [
+      {
+        "cell": "D5",
+        "formula": "=IF(AND(D3<>\"\",D4<>\"\"),D3-D4,\"\")"
+      },
+      {
+        "cell": "E5",
+        "formula": "=IF(AND(E3<>\"\",E4<>\"\"),E3-E4,\"\")"
+      },
+      {
+        "cell": "F5",
+        "formula": "=IF(AND(F3<>\"\",F4<>\"\"),F3-F4,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "ROI",
+    "label": "Capital Investment (Acquisition cost in (Rs.) of Mfg. Machinery, Utility & measuring Instruments etc. (excluding investment in land & building, office furniture))",
+    "unit": "(In Rs.)",
+    "examples": [
+      {
+        "cell": "D6",
+        "formula": "=IF('Data Add Sheet'!G17<>\"\",'Data Add Sheet'!G17,\"\")"
+      },
+      {
+        "cell": "E6",
+        "formula": "=IF('Data Add Sheet'!H17<>\"\",'Data Add Sheet'!H17,\"\")"
+      },
+      {
+        "cell": "F6",
+        "formula": "=IF('Data Add Sheet'!I17<>\"\",'Data Add Sheet'!I17,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "ROI",
+    "label": "Total Inventory Cost (RM+ WIP+ FG) (In Rs.)",
+    "unit": "(In Rs.)",
+    "examples": [
+      {
+        "cell": "D7",
+        "formula": "=if(or(ITR!D4<>\"\",ITR!D5<>\"\",ITR!D6<>\"\"),ITR!D8,\"\")"
+      },
+      {
+        "cell": "E7",
+        "formula": "=if(or(ITR!E4<>\"\",ITR!E5<>\"\",ITR!E6<>\"\"),ITR!E8,\"\")"
+      },
+      {
+        "cell": "F7",
+        "formula": "=if(or(ITR!F4<>\"\",ITR!F5<>\"\",ITR!F6<>\"\"),ITR!F8,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "ROI",
+    "label": "For The Month (FTM)",
+    "unit": "Ratio",
+    "examples": [
+      {
+        "cell": "D8",
+        "formula": "=IF(AND(D5<>\"\",D6<>\"\",D7<>\"\"),D5/(D6+D7),\"\")"
+      },
+      {
+        "cell": "E8",
+        "formula": "=IF(AND(E5<>\"\",E6<>\"\",E7<>\"\"),E5/(E6+E7),\"\")"
+      },
+      {
+        "cell": "F8",
+        "formula": "=IF(AND(F5<>\"\",F6<>\"\",F7<>\"\"),F5/(F6+F7),\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "ROI",
+    "label": "Throughput (Cum.)",
+    "unit": "Cumulative",
+    "examples": [
+      {
+        "cell": "D9",
+        "formula": "=IF(D3<>\"\",D3,\"\")"
+      },
+      {
+        "cell": "E9",
+        "formula": "=IF((E3<>\"\")*AND(D9<>\"\"),D9+E3,\"\")"
+      },
+      {
+        "cell": "F9",
+        "formula": "=IF((F3<>\"\")*AND(E9<>\"\"),E9+F3,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "ROI",
+    "label": "Operating Expenses (Cum.)",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D10",
+        "formula": "=IF(D4<>\"\",D4,\"\")"
+      },
+      {
+        "cell": "E10",
+        "formula": "=IF((E4<>\"\")*AND(D10<>\"\"),D10+E4,\"\")"
+      },
+      {
+        "cell": "F10",
+        "formula": "=IF((F4<>\"\")*AND(E10<>\"\"),E10+F4,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "ROI",
+    "label": "Net Profit (Rs. in lakhs) (Cum.)",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D11",
+        "formula": "=IF(D5<>\"\",D5,\"\")"
+      },
+      {
+        "cell": "E11",
+        "formula": "=IF((E5<>\"\")*AND(D11<>\"\"),D11+E5,\"\")"
+      },
+      {
+        "cell": "F11",
+        "formula": "=IF((F5<>\"\")*AND(E11<>\"\"),E11+F5,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "ROI",
+    "label": "Capital Investment (Rs.)  (Acquisition cost in (Rs.) of Mfg. Machinery, Utility & measuring Instruments etc. (excluding investment in land & building, office furniture)) (Cum.)",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D12",
+        "formula": "=IF(D6<>\"\",D6,\"\")"
+      },
+      {
+        "cell": "E12",
+        "formula": "=IF((E6<>\"\")*AND(D12<>\"\"),D12+E6,\"\")"
+      },
+      {
+        "cell": "F12",
+        "formula": "=IF((F6<>\"\")*AND(E12<>\"\"),E12+F6,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "ROI",
+    "label": "Total Inventory Cost (RM+ WIP+ FG) (In Rs.) Cum.",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D13",
+        "formula": "=IF(D7<>\"\",D7,\"\")"
+      },
+      {
+        "cell": "E13",
+        "formula": "=IF((E7<>\"\")*AND(D13<>\"\"),D13+E7,\"\")"
+      },
+      {
+        "cell": "F13",
+        "formula": "=IF((F7<>\"\")*AND(E13<>\"\"),E13+F7,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "ROI",
+    "label": "Year To Date (YTD)",
+    "unit": "Ratio",
+    "examples": [
+      {
+        "cell": "D14",
+        "formula": "=IF(AND(D11<>\"\",D12<>\"\",D13<>\"\"),D11/(D12+D13),\"\")"
+      },
+      {
+        "cell": "E14",
+        "formula": "=IF(AND(E11<>\"\",E12<>\"\",E13<>\"\"),E11/(E12+E13),\"\")"
+      },
+      {
+        "cell": "F14",
+        "formula": "=IF(AND(F11<>\"\",F12<>\"\",F13<>\"\"),F11/(F12+F13),\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "ROI",
+    "label": "For The Month (FTM)",
+    "unit": "Ratio",
+    "examples": [
+      {
+        "cell": "D16",
+        "formula": "=IF(D8<>\"\",D8,NA())"
+      },
+      {
+        "cell": "E16",
+        "formula": "=IF(E8<>\"\",E8,NA())"
+      },
+      {
+        "cell": "F16",
+        "formula": "=IF(F8<>\"\",F8,NA())"
+      }
+    ]
+  },
+  {
+    "sheet": "ROI",
+    "label": "Year To Date (YTD)",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D17",
+        "formula": "=IF(D14<>\"\",D14,NA())"
+      },
+      {
+        "cell": "E17",
+        "formula": "=IF(E14<>\"\",E14,NA())"
+      },
+      {
+        "cell": "F17",
+        "formula": "=IF(F14<>\"\",F14,NA())"
+      }
+    ]
+  },
+  {
+    "sheet": "ROI",
+    "label": "Target",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D18",
+        "formula": "=IFERROR(IF('KPIs Dashboard'!D45<>\"\",'KPIs Dashboard'!D45,NA()),\" \")"
+      },
+      {
+        "cell": "E18",
+        "formula": "=IFERROR(IF('KPIs Dashboard'!E45<>\"\",'KPIs Dashboard'!E45,NA()),\" \")"
+      },
+      {
+        "cell": "F18",
+        "formula": "=IFERROR(IF('KPIs Dashboard'!F45<>\"\",'KPIs Dashboard'!F45,NA()),\" \")"
+      }
+    ]
+  },
+  {
+    "sheet": "ROI (2)",
+    "label": "Throughput",
+    "unit": "(In Rs.)",
+    "examples": [
+      {
+        "cell": "D3",
+        "formula": "='Productivity (2)'!D17"
+      },
+      {
+        "cell": "E3",
+        "formula": "='Productivity (2)'!E17"
+      },
+      {
+        "cell": "F3",
+        "formula": "='Productivity (2)'!F17"
+      }
+    ]
+  },
+  {
+    "sheet": "ROI (2)",
+    "label": "Operating Expenses",
+    "unit": "(In Rs.)",
+    "examples": [
+      {
+        "cell": "D4",
+        "formula": "='Productivity (1)'!D15"
+      },
+      {
+        "cell": "E4",
+        "formula": "='Productivity (1)'!E15"
+      },
+      {
+        "cell": "F4",
+        "formula": "='Productivity (1)'!F15"
+      }
+    ]
+  },
+  {
+    "sheet": "ROI (2)",
+    "label": "Net Profit",
+    "unit": "(In Rs.)",
+    "examples": [
+      {
+        "cell": "D5",
+        "formula": "=IF(AND(D3<>\"\",D4<>\"\"),D3-D4,\"\")"
+      },
+      {
+        "cell": "E5",
+        "formula": "=IF(AND(E3<>\"\",E4<>\"\"),E3-E4,\"\")"
+      },
+      {
+        "cell": "F5",
+        "formula": "=IF(AND(F3<>\"\",F4<>\"\"),F3-F4,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "ROI (2)",
+    "label": "Capital Investment (Acquisition cost in (Rs.) of Mfg. Machinery, Utility & measuring Instruments etc. (excluding investment in land & building, office furniture))",
+    "unit": "(In Rs.)",
+    "examples": [
+      {
+        "cell": "D6",
+        "formula": "=IF('Data Add Sheet'!G17<>\"\",'Data Add Sheet'!G17,\"\")"
+      },
+      {
+        "cell": "E6",
+        "formula": "=IF('Data Add Sheet'!H17<>\"\",'Data Add Sheet'!H17,\"\")"
+      },
+      {
+        "cell": "F6",
+        "formula": "=IF('Data Add Sheet'!I17<>\"\",'Data Add Sheet'!I17,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "ROI (2)",
+    "label": "Total Inventory Cost (RM+ WIP+ FG+ Deadstock) (In Rs.)",
+    "unit": "(In Rs.)",
+    "examples": [
+      {
+        "cell": "D7",
+        "formula": "=IF(OR('ITR (2)'!D4<>\"\",'ITR (2)'!D5<>\"\",'ITR (2)'!D6<>\"\",'ITR (2)'!D7<>\"\"), SUM('ITR (2)'!D4:D7), \"\")\n"
+      },
+      {
+        "cell": "E7",
+        "formula": "=IF(OR('ITR (2)'!E4<>\"\",'ITR (2)'!E5<>\"\",'ITR (2)'!E6<>\"\",'ITR (2)'!E7<>\"\"), SUM('ITR (2)'!E4:E7), \"\")\n"
+      },
+      {
+        "cell": "F7",
+        "formula": "=IF(OR('ITR (2)'!F4<>\"\",'ITR (2)'!F5<>\"\",'ITR (2)'!F6<>\"\",'ITR (2)'!F7<>\"\"), SUM('ITR (2)'!F4:F7), \"\")\n"
+      }
+    ]
+  },
+  {
+    "sheet": "ROI (2)",
+    "label": "For The Month (FTM)",
+    "unit": "Ratio",
+    "examples": [
+      {
+        "cell": "D8",
+        "formula": "=IF(AND(D5<>\"\",D6<>\"\",D7<>\"\"),D5/(D6+D7)*100,\"\")"
+      },
+      {
+        "cell": "E8",
+        "formula": "=IF(AND(E5<>\"\",E6<>\"\",E7<>\"\"),E5/(E6+E7)*100,\"\")"
+      },
+      {
+        "cell": "F8",
+        "formula": "=IF(AND(F5<>\"\",F6<>\"\",F7<>\"\"),F5/(F6+F7)*100,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "ROI (2)",
+    "label": "Throughput (Cum.)",
+    "unit": "Cumulative",
+    "examples": [
+      {
+        "cell": "D9",
+        "formula": "=IF(D3<>\"\",D3,\"\")"
+      },
+      {
+        "cell": "E9",
+        "formula": "=IF((E3<>\"\")*AND(D9<>\"\"),D9+E3,\"\")"
+      },
+      {
+        "cell": "F9",
+        "formula": "=IF((F3<>\"\")*AND(E9<>\"\"),E9+F3,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "ROI (2)",
+    "label": "Operating Expenses (Cum.)",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D10",
+        "formula": "=IF(D4<>\"\",D4,\"\")"
+      },
+      {
+        "cell": "E10",
+        "formula": "=IF((E4<>\"\")*AND(D10<>\"\"),D10+E4,\"\")"
+      },
+      {
+        "cell": "F10",
+        "formula": "=IF((F4<>\"\")*AND(E10<>\"\"),E10+F4,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "ROI (2)",
+    "label": "Net Profit (Rs. in lakhs) (Cum.)",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D11",
+        "formula": "=IF(D5<>\"\",D5,\"\")"
+      },
+      {
+        "cell": "E11",
+        "formula": "=IF((E5<>\"\")*AND(D11<>\"\"),D11+E5,\"\")"
+      },
+      {
+        "cell": "F11",
+        "formula": "=IF((F5<>\"\")*AND(E11<>\"\"),E11+F5,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "ROI (2)",
+    "label": "Capital Investment (Rs.)  (Acquisition cost in (Rs.) of Mfg. Machinery, Utility & measuring Instruments etc. (excluding investment in land & building, office furniture)) (Cum.)",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D12",
+        "formula": "=IF(D6<>\"\",D6,\"\")"
+      },
+      {
+        "cell": "E12",
+        "formula": "=IF((E6<>\"\")*AND(D12<>\"\"),D12+E6,\"\")"
+      },
+      {
+        "cell": "F12",
+        "formula": "=IF((F6<>\"\")*AND(E12<>\"\"),E12+F6,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "ROI (2)",
+    "label": "Total Inventory Cost (RM+ WIP+ FG) (In Rs.) Cum.",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D13",
+        "formula": "=IF(D7<>\"\",D7,\"\")"
+      },
+      {
+        "cell": "E13",
+        "formula": "=IF((E7<>\"\")*AND(D13<>\"\"),D13+E7,\"\")"
+      },
+      {
+        "cell": "F13",
+        "formula": "=IF((F7<>\"\")*AND(E13<>\"\"),E13+F7,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "ROI (2)",
+    "label": "Year To Date (YTD)",
+    "unit": "Ratio",
+    "examples": [
+      {
+        "cell": "D14",
+        "formula": "=IF(AND(D11<>\"\",D12<>\"\",D13<>\"\"),D11/(D12+D13),\"\")*100"
+      },
+      {
+        "cell": "E14",
+        "formula": "=IF(AND(E11<>\"\",E12<>\"\",E13<>\"\"),E11/(E12+E13),\"\")*100"
+      },
+      {
+        "cell": "F14",
+        "formula": "=IF(AND(F11<>\"\",F12<>\"\",F13<>\"\"),F11/(F12+F13),\"\")*100"
+      }
+    ]
+  },
+  {
+    "sheet": "ROI (2)",
+    "label": "For The Month (FTM)",
+    "unit": "Ratio",
+    "examples": [
+      {
+        "cell": "D16",
+        "formula": "=IF(D8<>\"\",D8,NA())"
+      },
+      {
+        "cell": "E16",
+        "formula": "=IF(E8<>\"\",E8,NA())"
+      },
+      {
+        "cell": "F16",
+        "formula": "=IF(F8<>\"\",F8,NA())"
+      }
+    ]
+  },
+  {
+    "sheet": "ROI (2)",
+    "label": "Year To Date (YTD)",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D17",
+        "formula": "=IF(D14<>\"\",D14,NA())"
+      },
+      {
+        "cell": "E17",
+        "formula": "=IF(E14<>\"\",E14,NA())"
+      },
+      {
+        "cell": "F17",
+        "formula": "=IF(F14<>\"\",F14,NA())"
+      }
+    ]
+  },
+  {
+    "sheet": "ROI (2)",
+    "label": "Target",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D18",
+        "formula": "=IFERROR(IF('KPIs Dashboard'!D65<>\"\",'KPIs Dashboard'!D65,NA()),\" \")"
+      },
+      {
+        "cell": "E18",
+        "formula": "=IFERROR(IF('KPIs Dashboard'!E65<>\"\",'KPIs Dashboard'!E65,NA()),\" \")"
+      },
+      {
+        "cell": "F18",
+        "formula": "=IFERROR(IF('KPIs Dashboard'!F65<>\"\",'KPIs Dashboard'!F65,NA()),\" \")"
+      }
+    ]
+  },
+  {
+    "sheet": "ITR",
+    "label": "Throughput (Rs.)",
+    "unit": "(Rs.)",
+    "examples": [
+      {
+        "cell": "D3",
+        "formula": "='Productivity (1)'!D14"
+      },
+      {
+        "cell": "E3",
+        "formula": "='Productivity (1)'!E14"
+      },
+      {
+        "cell": "F3",
+        "formula": "='Productivity (1)'!F14"
+      }
+    ]
+  },
+  {
+    "sheet": "ITR",
+    "label": "Value of RM and Bought Out Items (Rs.)",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D4",
+        "formula": "=IF('Data Add Sheet'!G29<>\"\",'Data Add Sheet'!G29,\"\")"
+      },
+      {
+        "cell": "E4",
+        "formula": "=IF('Data Add Sheet'!H29<>\"\",'Data Add Sheet'!H29,\"\")"
+      },
+      {
+        "cell": "F4",
+        "formula": "=IF('Data Add Sheet'!I29<>\"\",'Data Add Sheet'!I29,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "ITR",
+    "label": "Value of Material in WIP (Rs.)",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D5",
+        "formula": "=IF('Data Add Sheet'!G30<>\"\",'Data Add Sheet'!G30,\"\")"
+      },
+      {
+        "cell": "E5",
+        "formula": "=IF('Data Add Sheet'!H30<>\"\",'Data Add Sheet'!H30,\"\")"
+      },
+      {
+        "cell": "F5",
+        "formula": "=IF('Data Add Sheet'!I30<>\"\",'Data Add Sheet'!I30,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "ITR",
+    "label": "Value of Material in FG (Rs.)",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D6",
+        "formula": "=IF('Data Add Sheet'!G31<>\"\",'Data Add Sheet'!G31,\"\")"
+      },
+      {
+        "cell": "E6",
+        "formula": "=IF('Data Add Sheet'!H31<>\"\",'Data Add Sheet'!H31,\"\")"
+      },
+      {
+        "cell": "F6",
+        "formula": "=IF('Data Add Sheet'!I31<>\"\",'Data Add Sheet'!I31,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "ITR",
+    "label": "Value of Dead Stock (Rs.)",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D7",
+        "formula": "=IF('Data Add Sheet'!G32<>\"\",'Data Add Sheet'!G32,\"\")"
+      },
+      {
+        "cell": "E7",
+        "formula": "=IF('Data Add Sheet'!H32<>\"\",'Data Add Sheet'!H32,\"\")"
+      },
+      {
+        "cell": "F7",
+        "formula": "=IF('Data Add Sheet'!I32<>\"\",'Data Add Sheet'!I32,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "ITR",
+    "label": "Total Value of Inventory (Rs.) at Month end",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D8",
+        "formula": "=IF(OR(D4<>\"\",D5<>\"\",D6<>\"\",D7<>\"\"),SUM(D4:D7),\"\")"
+      },
+      {
+        "cell": "E8",
+        "formula": "=IF(OR(E4<>\"\",E5<>\"\",E6<>\"\",E7<>\"\"),SUM(E4:E7),\"\")"
+      },
+      {
+        "cell": "F8",
+        "formula": "=IF(OR(F4<>\"\",F5<>\"\",F6<>\"\",F7<>\"\"),SUM(F4:F7),\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "ITR",
+    "label": "For The Month (FTM)",
+    "unit": "Ratio",
+    "examples": [
+      {
+        "cell": "D9",
+        "formula": "=IF(AND(D3<>\"\",D8<>\"\"),D3/D8,\"\")"
+      },
+      {
+        "cell": "E9",
+        "formula": "=IF(AND(E3<>\"\",E8<>\"\"),E3/E8,\"\")"
+      },
+      {
+        "cell": "F9",
+        "formula": "=IF(AND(F3<>\"\",F8<>\"\"),F3/F8,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "ITR",
+    "label": "Throughput (Rs.) (Cum.)",
+    "unit": "Cumulative",
+    "examples": [
+      {
+        "cell": "D10",
+        "formula": "=IF(D3<>\"\",D3,\"\")"
+      },
+      {
+        "cell": "E10",
+        "formula": "=IF((E3<>\"\")*AND(D10<>\"\"),D10+E3,\"\")"
+      },
+      {
+        "cell": "F10",
+        "formula": "=IF((F3<>\"\")*AND(E10<>\"\"),E10+F3,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "ITR",
+    "label": "Total Value of Inventory (Rs.) at Month end (Cum.)",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D11",
+        "formula": "=IF(D8<>\"\",D8,\"\")"
+      },
+      {
+        "cell": "E11",
+        "formula": "=IF((E8<>\"\")*AND(D11<>\"\"),D11+E8,\"\")"
+      },
+      {
+        "cell": "F11",
+        "formula": "=IF((F8<>\"\")*AND(E11<>\"\"),E11+F8,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "ITR",
+    "label": "Year To Date (YTD)",
+    "unit": "Ratio",
+    "examples": [
+      {
+        "cell": "D12",
+        "formula": "=IF((D10<>\"\")*AND(D11<>\"\"),D10/D11,\"\")"
+      },
+      {
+        "cell": "E12",
+        "formula": "=IF((E10<>\"\")*AND(E11<>\"\"),E10/E11,\"\")"
+      },
+      {
+        "cell": "F12",
+        "formula": "=IF((F10<>\"\")*AND(F11<>\"\"),F10/F11,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "ITR",
+    "label": "For The Month (FTM)",
+    "unit": "Ratio",
+    "examples": [
+      {
+        "cell": "D14",
+        "formula": "=IF(D9<>\"\",D9,NA())"
+      },
+      {
+        "cell": "E14",
+        "formula": "=IF(E9<>\"\",E9,NA())"
+      },
+      {
+        "cell": "F14",
+        "formula": "=IF(F9<>\"\",F9,NA())"
+      }
+    ]
+  },
+  {
+    "sheet": "ITR",
+    "label": "Year To Date (YTD)",
+    "unit": "Ratio",
+    "examples": [
+      {
+        "cell": "D15",
+        "formula": "=IF(D12<>\"\",D12,NA())"
+      },
+      {
+        "cell": "E15",
+        "formula": "=IF(E12<>\"\",E12,NA())"
+      },
+      {
+        "cell": "F15",
+        "formula": "=IF(F12<>\"\",F12,NA())"
+      }
+    ]
+  },
+  {
+    "sheet": "ITR",
+    "label": "Target",
+    "unit": "Ratio",
+    "examples": [
+      {
+        "cell": "D16",
+        "formula": "=IFERROR(IF('KPIs Dashboard'!D172<>\"\",'KPIs Dashboard'!D172,NA()),\" \")"
+      },
+      {
+        "cell": "E16",
+        "formula": "=IFERROR(IF('KPIs Dashboard'!E172<>\"\",'KPIs Dashboard'!E172,NA()),\" \")"
+      },
+      {
+        "cell": "F16",
+        "formula": "=IFERROR(IF('KPIs Dashboard'!F172<>\"\",'KPIs Dashboard'!F172,NA()),\" \")"
+      }
+    ]
+  },
+  {
+    "sheet": "ITR (2)",
+    "label": "Throughput (Rs.)",
+    "unit": "(Rs.)",
+    "examples": [
+      {
+        "cell": "D3",
+        "formula": "='Productivity (2)'!D17"
+      },
+      {
+        "cell": "E3",
+        "formula": "='Productivity (2)'!E17"
+      },
+      {
+        "cell": "F3",
+        "formula": "='Productivity (2)'!F17"
+      }
+    ]
+  },
+  {
+    "sheet": "ITR (2)",
+    "label": "Value of RM and Bought Out Items (Rs.)",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D4",
+        "formula": "=IF('Data Add Sheet'!G29<>\"\",'Data Add Sheet'!G29,\"\")"
+      },
+      {
+        "cell": "E4",
+        "formula": "=IF('Data Add Sheet'!H29<>\"\",'Data Add Sheet'!H29,\"\")"
+      },
+      {
+        "cell": "F4",
+        "formula": "=IF('Data Add Sheet'!I29<>\"\",'Data Add Sheet'!I29,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "ITR (2)",
+    "label": "Value of Material in WIP (Rs.)",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D5",
+        "formula": "=IF('Data Add Sheet'!G30<>\"\",'Data Add Sheet'!G30,\"\")"
+      },
+      {
+        "cell": "E5",
+        "formula": "=IF('Data Add Sheet'!H30<>\"\",'Data Add Sheet'!H30,\"\")"
+      },
+      {
+        "cell": "F5",
+        "formula": "=IF('Data Add Sheet'!I30<>\"\",'Data Add Sheet'!I30,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "ITR (2)",
+    "label": "Value of Material in FG (Rs.)",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D6",
+        "formula": "=IF('Data Add Sheet'!G31<>\"\",'Data Add Sheet'!G31,\"\")"
+      },
+      {
+        "cell": "E6",
+        "formula": "=IF('Data Add Sheet'!H31<>\"\",'Data Add Sheet'!H31,\"\")"
+      },
+      {
+        "cell": "F6",
+        "formula": "=IF('Data Add Sheet'!I31<>\"\",'Data Add Sheet'!I31,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "ITR (2)",
+    "label": "Value of Dead Stock (Rs.)",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D7",
+        "formula": "=IF('Data Add Sheet'!G32<>\"\",'Data Add Sheet'!G32,\"\")"
+      },
+      {
+        "cell": "E7",
+        "formula": "=IF('Data Add Sheet'!H32<>\"\",'Data Add Sheet'!H32,\"\")"
+      },
+      {
+        "cell": "F7",
+        "formula": "=IF('Data Add Sheet'!I32<>\"\",'Data Add Sheet'!I32,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "ITR (2)",
+    "label": "Total Value of Inventory (Rs.) at Month end",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D8",
+        "formula": "=IF(OR(D4<>\"\",D5<>\"\",D6<>\"\",D7<>\"\"),SUM(D4:D7),\"\")"
+      },
+      {
+        "cell": "E8",
+        "formula": "=IF(OR(E4<>\"\",E5<>\"\",E6<>\"\",E7<>\"\"),SUM(E4:E7),\"\")"
+      },
+      {
+        "cell": "F8",
+        "formula": "=IF(OR(F4<>\"\",F5<>\"\",F6<>\"\",F7<>\"\"),SUM(F4:F7),\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "ITR (2)",
+    "label": "For The Month (FTM)",
+    "unit": "Ratio",
+    "examples": [
+      {
+        "cell": "D9",
+        "formula": "=IF(AND(D3<>\"\",D8<>\"\"),D3/D8,\"\")"
+      },
+      {
+        "cell": "E9",
+        "formula": "=IF(AND(E3<>\"\",E8<>\"\"),E3/E8,\"\")"
+      },
+      {
+        "cell": "F9",
+        "formula": "=IF(AND(F3<>\"\",F8<>\"\"),F3/F8,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "ITR (2)",
+    "label": "Throughput (Rs.) (Cum.)",
+    "unit": "Cumulative",
+    "examples": [
+      {
+        "cell": "D10",
+        "formula": "=IF(D3<>\"\",D3,\"\")"
+      },
+      {
+        "cell": "E10",
+        "formula": "=IF((E3<>\"\")*AND(D10<>\"\"),D10+E3,\"\")"
+      },
+      {
+        "cell": "F10",
+        "formula": "=IF((F3<>\"\")*AND(E10<>\"\"),E10+F3,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "ITR (2)",
+    "label": "Total Value of Inventory (Rs.) at Month end (Cum.)",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D11",
+        "formula": "=IF(D8<>\"\",D8,\"\")"
+      },
+      {
+        "cell": "E11",
+        "formula": "=IF((E8<>\"\")*AND(D11<>\"\"),D11+E8,\"\")"
+      },
+      {
+        "cell": "F11",
+        "formula": "=IF((F8<>\"\")*AND(E11<>\"\"),E11+F8,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "ITR (2)",
+    "label": "Year To Date (YTD)",
+    "unit": "Ratio",
+    "examples": [
+      {
+        "cell": "D12",
+        "formula": "=IF((D10<>\"\")*AND(D11<>\"\"),D10/D11,\"\")"
+      },
+      {
+        "cell": "E12",
+        "formula": "=IF((E10<>\"\")*AND(E11<>\"\"),E10/E11,\"\")"
+      },
+      {
+        "cell": "F12",
+        "formula": "=IF((F10<>\"\")*AND(F11<>\"\"),F10/F11,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "ITR (2)",
+    "label": "For The Month (FTM)",
+    "unit": "Ratio",
+    "examples": [
+      {
+        "cell": "D14",
+        "formula": "=IF(D9<>\"\",D9,NA())"
+      },
+      {
+        "cell": "E14",
+        "formula": "=IF(E9<>\"\",E9,NA())"
+      },
+      {
+        "cell": "F14",
+        "formula": "=IF(F9<>\"\",F9,NA())"
+      }
+    ]
+  },
+  {
+    "sheet": "ITR (2)",
+    "label": "Year To Date (YTD)",
+    "unit": "Ratio",
+    "examples": [
+      {
+        "cell": "D15",
+        "formula": "=IF(D12<>\"\",D12,NA())"
+      },
+      {
+        "cell": "E15",
+        "formula": "=IF(E12<>\"\",E12,NA())"
+      },
+      {
+        "cell": "F15",
+        "formula": "=IF(F12<>\"\",F12,NA())"
+      }
+    ]
+  },
+  {
+    "sheet": "ITR (2)",
+    "label": "Target",
+    "unit": "Ratio",
+    "examples": [
+      {
+        "cell": "D16",
+        "formula": "=IFERROR(IF('KPIs Dashboard'!D193<>\"\",'KPIs Dashboard'!D193,NA()),\" \")"
+      },
+      {
+        "cell": "E16",
+        "formula": "=IFERROR(IF('KPIs Dashboard'!E193<>\"\",'KPIs Dashboard'!E193,NA()),\" \")"
+      },
+      {
+        "cell": "F16",
+        "formula": "=IFERROR(IF('KPIs Dashboard'!F193<>\"\",'KPIs Dashboard'!F193,NA()),\" \")"
+      }
+    ]
+  },
+  {
+    "sheet": "Voice of Customer ",
+    "label": "Nos. of defective products returned by customers  and rework at site",
+    "unit": "(Nos)",
+    "examples": [
+      {
+        "cell": "D3",
+        "formula": "=IF('Data Add Sheet'!G25<>\"\",'Data Add Sheet'!G25,\"\")"
+      },
+      {
+        "cell": "E3",
+        "formula": "=IF('Data Add Sheet'!H25<>\"\",'Data Add Sheet'!H25,\"\")"
+      },
+      {
+        "cell": "F3",
+        "formula": "=IF('Data Add Sheet'!I25<>\"\",'Data Add Sheet'!I25,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Voice of Customer ",
+    "label": "Total no. of products sold",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D4",
+        "formula": "=IF('Data Add Sheet'!G26<>\"\",'Data Add Sheet'!G26,\"\")"
+      },
+      {
+        "cell": "E4",
+        "formula": "=IF('Data Add Sheet'!H26<>\"\",'Data Add Sheet'!H26,\"\")"
+      },
+      {
+        "cell": "F4",
+        "formula": "=IF('Data Add Sheet'!I26<>\"\",'Data Add Sheet'!I26,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Voice of Customer ",
+    "label": "For The Month (FTM)",
+    "unit": "Ratio",
+    "examples": [
+      {
+        "cell": "D5",
+        "formula": "=IF(AND(D3<>\"\",D4<>\"\"),D3/D4,\"\")"
+      },
+      {
+        "cell": "E5",
+        "formula": "=IF(AND(E3<>\"\",E4<>\"\"),E3/E4,\"\")"
+      },
+      {
+        "cell": "F5",
+        "formula": "=IF(AND(F3<>\"\",F4<>\"\"),F3/F4,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Voice of Customer ",
+    "label": "For The Month (FTM)",
+    "unit": "PPM",
+    "examples": [
+      {
+        "cell": "D6",
+        "formula": "=D5*1000000"
+      },
+      {
+        "cell": "E6",
+        "formula": "=E5*1000000"
+      },
+      {
+        "cell": "F6",
+        "formula": "=F5*1000000"
+      }
+    ]
+  },
+  {
+    "sheet": "Voice of Customer ",
+    "label": "Nos. of defective products returned by customers  and rework at site",
+    "unit": "Cumulative",
+    "examples": [
+      {
+        "cell": "D7",
+        "formula": "=IF(D3<>\"\",D3,\"\")"
+      },
+      {
+        "cell": "E7",
+        "formula": "=IF((E3<>\"\")*AND(D7<>\"\"),D7+E3,\"\")"
+      },
+      {
+        "cell": "F7",
+        "formula": "=IF((F3<>\"\")*AND(E7<>\"\"),E7+F3,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Voice of Customer ",
+    "label": "Total no. of products sold (Cum.)",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D8",
+        "formula": "=IF(D4<>\"\",D4,\"\")"
+      },
+      {
+        "cell": "E8",
+        "formula": "=IF((E4<>\"\")*AND(D8<>\"\"),D8+E4,\"\")"
+      },
+      {
+        "cell": "F8",
+        "formula": "=IF((F4<>\"\")*AND(E8<>\"\"),E8+F4,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Voice of Customer ",
+    "label": "Year To Date (YTD)",
+    "unit": "Ratio",
+    "examples": [
+      {
+        "cell": "D9",
+        "formula": "=IF((D7<>\"\")*AND(D8<>\"\"),D7/D8,\"\")"
+      },
+      {
+        "cell": "E9",
+        "formula": "=IF((E7<>\"\")*AND(E8<>\"\"),E7/E8,\"\")"
+      },
+      {
+        "cell": "F9",
+        "formula": "=IF((F7<>\"\")*AND(F8<>\"\"),F7/F8,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Voice of Customer ",
+    "label": "No. of recognition letters (Total No.)",
+    "unit": "(Nos)",
+    "examples": [
+      {
+        "cell": "D11",
+        "formula": "=IF('Data Add Sheet'!G27<>\"\",'Data Add Sheet'!G27,\"\")"
+      },
+      {
+        "cell": "E11",
+        "formula": "=IF('Data Add Sheet'!H27<>\"\",'Data Add Sheet'!H27,\"\")"
+      },
+      {
+        "cell": "F11",
+        "formula": "=IF('Data Add Sheet'!I27<>\"\",'Data Add Sheet'!I27,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Voice of Customer ",
+    "label": "Certificates from Customers and third party (Total No.)",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D12",
+        "formula": "=IF('Data Add Sheet'!G28<>\"\",'Data Add Sheet'!G28,\"\")"
+      },
+      {
+        "cell": "E12",
+        "formula": "=IF('Data Add Sheet'!H28<>\"\",'Data Add Sheet'!H28,\"\")"
+      },
+      {
+        "cell": "F12",
+        "formula": "=IF('Data Add Sheet'!I28<>\"\",'Data Add Sheet'!I28,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Voice of Customer ",
+    "label": "For The Month (FTM)",
+    "unit": "Ratio",
+    "examples": [
+      {
+        "cell": "D13",
+        "formula": "=IFERROR(IF(AND(D11<>\"\",D12<>\"\"),D11/D12,\"\"),\" \")"
+      },
+      {
+        "cell": "E13",
+        "formula": "=IFERROR(IF(AND(E11<>\"\",E12<>\"\"),E11/E12,\"\"),\" \")"
+      },
+      {
+        "cell": "F13",
+        "formula": "=IFERROR(IF(AND(F11<>\"\",F12<>\"\"),F11/F12,\"\"),\" \")"
+      }
+    ]
+  },
+  {
+    "sheet": "Voice of Customer ",
+    "label": "No. of recognition letters (Cum.)",
+    "unit": "Cumulative",
+    "examples": [
+      {
+        "cell": "D14",
+        "formula": "=IF(D11<>\"\",D11,\"\")"
+      },
+      {
+        "cell": "E14",
+        "formula": "=IF((E11<>\"\")*AND(D14<>\"\"),D14+E11,\"\")"
+      },
+      {
+        "cell": "F14",
+        "formula": "=IF((F11<>\"\")*AND(E14<>\"\"),E14+F11,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Voice of Customer ",
+    "label": "Certificates from Customers and third party (Cum.)",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D15",
+        "formula": "=IF(D12<>\"\",D12,\"\")"
+      },
+      {
+        "cell": "E15",
+        "formula": "=IF((E12<>\"\")*AND(D15<>\"\"),D15+E12,\"\")"
+      },
+      {
+        "cell": "F15",
+        "formula": "=IF((F12<>\"\")*AND(E15<>\"\"),E15+F12,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Voice of Customer ",
+    "label": "Year To Date (YTD)",
+    "unit": "Ratio",
+    "examples": [
+      {
+        "cell": "D16",
+        "formula": "=IF((D14<>\"\")*AND(D15<>\"\"),D14/D15,\"\")"
+      },
+      {
+        "cell": "E16",
+        "formula": "=IF((E14<>\"\")*AND(E15<>\"\"),E14/E15,\"\")"
+      },
+      {
+        "cell": "F16",
+        "formula": "=IF((F14<>\"\")*AND(F15<>\"\"),F14/F15,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Voice of Customer ",
+    "label": "For The Month (FTM)",
+    "unit": "Ratio",
+    "examples": [
+      {
+        "cell": "D18",
+        "formula": "=IF(D5<>\"\",D5,NA())"
+      },
+      {
+        "cell": "E18",
+        "formula": "=IF(E5<>\"\",E5,NA())"
+      },
+      {
+        "cell": "F18",
+        "formula": "=IF(F5<>\"\",F5,NA())"
+      }
+    ]
+  },
+  {
+    "sheet": "Voice of Customer ",
+    "label": "Year To Date (YTD)",
+    "unit": "Ratio",
+    "examples": [
+      {
+        "cell": "D19",
+        "formula": "=IF(D9<>\"\",D9,NA())"
+      },
+      {
+        "cell": "E19",
+        "formula": "=IF(E9<>\"\",E9,NA())"
+      },
+      {
+        "cell": "F19",
+        "formula": "=IF(F9<>\"\",F9,NA())"
+      }
+    ]
+  },
+  {
+    "sheet": "Voice of Customer ",
+    "label": "Target",
+    "unit": "Ratio",
+    "examples": [
+      {
+        "cell": "D20",
+        "formula": "=IFERROR(IF('KPIs Dashboard'!D103<>\"\",'KPIs Dashboard'!D103,NA()),\" \")"
+      },
+      {
+        "cell": "E20",
+        "formula": "=IFERROR(IF('KPIs Dashboard'!E103<>\"\",'KPIs Dashboard'!E103,NA()),\" \")"
+      },
+      {
+        "cell": "F20",
+        "formula": "=IFERROR(IF('KPIs Dashboard'!F103<>\"\",'KPIs Dashboard'!F103,NA()),\" \")"
+      }
+    ]
+  },
+  {
+    "sheet": "Voice of Customer ",
+    "label": "For The Month (FTM)",
+    "unit": "Ratio",
+    "examples": [
+      {
+        "cell": "D22",
+        "formula": "=IF(D13<>\"\",D13,NA())"
+      },
+      {
+        "cell": "E22",
+        "formula": "=IF(E13<>\"\",E13,NA())"
+      },
+      {
+        "cell": "F22",
+        "formula": "=IF(F13<>\"\",F13,NA())"
+      }
+    ]
+  },
+  {
+    "sheet": "Voice of Customer ",
+    "label": "Year To Date (YTD)",
+    "unit": "Ratio",
+    "examples": [
+      {
+        "cell": "D23",
+        "formula": "=IF(D16<>\"\",D16,NA())"
+      },
+      {
+        "cell": "E23",
+        "formula": "=IF(E16<>\"\",E16,NA())"
+      },
+      {
+        "cell": "F23",
+        "formula": "=IF(F16<>\"\",F16,NA())"
+      }
+    ]
+  },
+  {
+    "sheet": "Quality Performance",
+    "label": "No. of FG products & components Rejected (sum of rectifiable, Scrapable & customer end)",
+    "unit": "(Nos)",
+    "examples": [
+      {
+        "cell": "D3",
+        "formula": "=IF('Data Add Sheet'!G36<>\"\",'Data Add Sheet'!G36,\"\")"
+      },
+      {
+        "cell": "E3",
+        "formula": "=IF('Data Add Sheet'!H36<>\"\",'Data Add Sheet'!H36,\"\")"
+      },
+      {
+        "cell": "F3",
+        "formula": "=IF('Data Add Sheet'!I36<>\"\",'Data Add Sheet'!I36,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Quality Performance",
+    "label": "Total No. FG products & components produced",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D4",
+        "formula": "=IF('Data Add Sheet'!G37<>\"\",'Data Add Sheet'!G37,\"\")"
+      },
+      {
+        "cell": "E4",
+        "formula": "=IF('Data Add Sheet'!H37<>\"\",'Data Add Sheet'!H37,\"\")"
+      },
+      {
+        "cell": "F4",
+        "formula": "=IF('Data Add Sheet'!I37<>\"\",'Data Add Sheet'!I37,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Quality Performance",
+    "label": "For The Month (FTM)",
+    "unit": "Ratio  ",
+    "examples": [
+      {
+        "cell": "D5",
+        "formula": "=IF(AND(D3<>\"\",D4<>\"\"),D3/D4,\"\")"
+      },
+      {
+        "cell": "E5",
+        "formula": "=IF(AND(E3<>\"\",E4<>\"\"),E3/E4,\"\")"
+      },
+      {
+        "cell": "F5",
+        "formula": "=IF(AND(F3<>\"\",F4<>\"\"),F3/F4,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Quality Performance",
+    "label": "For The Month (FTM)",
+    "unit": "PPM",
+    "examples": [
+      {
+        "cell": "D6",
+        "formula": "=IF(AND(D3<>\"\",D4<>\"\"),D3/D4*1000000,\"\")"
+      },
+      {
+        "cell": "E6",
+        "formula": "=IF(AND(E3<>\"\",E4<>\"\"),E3/E4*1000000,\"\")"
+      },
+      {
+        "cell": "F6",
+        "formula": "=IF(AND(F3<>\"\",F4<>\"\"),F3/F4*1000000,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Quality Performance",
+    "label": "No. of FG products & components Rejected (sum of rectifiable, Scrapable & customer end) (Cum.)",
+    "unit": "Cumulative",
+    "examples": [
+      {
+        "cell": "D7",
+        "formula": "=IF(D3<>\"\",D3,\"\")"
+      },
+      {
+        "cell": "E7",
+        "formula": "=IF((E3<>\"\")*AND(D7<>\"\"),D7+E3,\"\")"
+      },
+      {
+        "cell": "F7",
+        "formula": "=IF((F3<>\"\")*AND(E7<>\"\"),E7+F3,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Quality Performance",
+    "label": "Total No. FG products & components produced (Cum.)",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D8",
+        "formula": "=IF(D4<>\"\",D4,\"\")"
+      },
+      {
+        "cell": "E8",
+        "formula": "=IF((E4<>\"\")*AND(D8<>\"\"),D8+E4,\"\")"
+      },
+      {
+        "cell": "F8",
+        "formula": "=IF((F4<>\"\")*AND(E8<>\"\"),E8+F4,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Quality Performance",
+    "label": "Year To Date (YTD)",
+    "unit": "Ratio  ",
+    "examples": [
+      {
+        "cell": "D9",
+        "formula": "=IF((D7<>\"\")*AND(D8<>\"\"),D7/D8,\"\")"
+      },
+      {
+        "cell": "E9",
+        "formula": "=IF((E7<>\"\")*AND(E8<>\"\"),E7/E8,\"\")"
+      },
+      {
+        "cell": "F9",
+        "formula": "=IF((F7<>\"\")*AND(F8<>\"\"),F7/F8,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Quality Performance",
+    "label": "Year To Date (YTD)",
+    "unit": "PPM",
+    "examples": [
+      {
+        "cell": "D10",
+        "formula": "=IF((D7<>\"\")*AND(D8<>\"\"),D7/D8*1000000,\"\")"
+      },
+      {
+        "cell": "E10",
+        "formula": "=IF((E7<>\"\")*AND(E8<>\"\"),E7/E8*1000000,\"\")"
+      },
+      {
+        "cell": "F10",
+        "formula": "=IF((F7<>\"\")*AND(F8<>\"\"),F7/F8*1000000,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Quality Performance",
+    "label": "For The Month (FTM)",
+    "unit": "Ratio  ",
+    "examples": [
+      {
+        "cell": "D12",
+        "formula": "=IF(D5<>\"\",D5,NA())"
+      },
+      {
+        "cell": "E12",
+        "formula": "=IF(E5<>\"\",E5,NA())"
+      },
+      {
+        "cell": "F12",
+        "formula": "=IF(F5<>\"\",F5,NA())"
+      }
+    ]
+  },
+  {
+    "sheet": "Quality Performance",
+    "label": "Year To Date (YTD)",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D13",
+        "formula": "=IF(D9<>\"\",D9,NA())"
+      },
+      {
+        "cell": "E13",
+        "formula": "=IF(E9<>\"\",E9,NA())"
+      },
+      {
+        "cell": "F13",
+        "formula": "=IF(F9<>\"\",F9,NA())"
+      }
+    ]
+  },
+  {
+    "sheet": "Quality Performance",
+    "label": "For The Month (FTM)",
+    "unit": "PPM",
+    "examples": [
+      {
+        "cell": "D14",
+        "formula": "=IF(D6<>\"\",D6,NA())"
+      },
+      {
+        "cell": "E14",
+        "formula": "=IF(E6<>\"\",E6,NA())"
+      },
+      {
+        "cell": "F14",
+        "formula": "=IF(F6<>\"\",F6,NA())"
+      }
+    ]
+  },
+  {
+    "sheet": "Quality Performance",
+    "label": "Year To Date (YTD)",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D15",
+        "formula": "=IF(D10<>\"\",D10,NA())"
+      },
+      {
+        "cell": "E15",
+        "formula": "=IF(E10<>\"\",E10,NA())"
+      },
+      {
+        "cell": "F15",
+        "formula": "=IF(F10<>\"\",F10,NA())"
+      }
+    ]
+  },
+  {
+    "sheet": "Quality Performance",
+    "label": "Target (Ratio)",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D16",
+        "formula": "=IFERROR(IF('KPIs Dashboard'!D223<>\"\",'KPIs Dashboard'!D223,NA()),\" \")"
+      },
+      {
+        "cell": "E16",
+        "formula": "=IFERROR(IF('KPIs Dashboard'!E223<>\"\",'KPIs Dashboard'!E223,NA()),\" \")"
+      },
+      {
+        "cell": "F16",
+        "formula": "=IFERROR(IF('KPIs Dashboard'!F223<>\"\",'KPIs Dashboard'!F223,NA()),\" \")"
+      }
+    ]
+  },
+  {
+    "sheet": "Quality Performance",
+    "label": "Target (PPM)",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D17",
+        "formula": "=IFERROR(IF('KPIs Dashboard'!D241<>\"\",'KPIs Dashboard'!D241,NA()),\" \")"
+      },
+      {
+        "cell": "E17",
+        "formula": "=IFERROR(IF('KPIs Dashboard'!E241<>\"\",'KPIs Dashboard'!E241,NA()),\" \")"
+      },
+      {
+        "cell": "F17",
+        "formula": "=IFERROR(IF('KPIs Dashboard'!F241<>\"\",'KPIs Dashboard'!F241,NA()),\" \")"
+      }
+    ]
+  },
+  {
+    "sheet": "OEE",
+    "label": "Machine hours available in working condition per shift",
+    "unit": "(Nos)",
+    "examples": [
+      {
+        "cell": "D3",
+        "formula": "=IF('Data Add Sheet'!G42<>\"\",'Data Add Sheet'!G42,\"\")"
+      },
+      {
+        "cell": "E3",
+        "formula": "=IF('Data Add Sheet'!H42<>\"\",'Data Add Sheet'!H42,\"\")"
+      },
+      {
+        "cell": "F3",
+        "formula": "=IF('Data Add Sheet'!I42<>\"\",'Data Add Sheet'!I42,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "OEE",
+    "label": "Total machine hours capacity per shift",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D4",
+        "formula": "=IF('Data Add Sheet'!G43<>\"\",'Data Add Sheet'!G43,\"\")"
+      },
+      {
+        "cell": "E4",
+        "formula": "=IF('Data Add Sheet'!H43<>\"\",'Data Add Sheet'!H43,\"\")"
+      },
+      {
+        "cell": "F4",
+        "formula": "=IF('Data Add Sheet'!I43<>\"\",'Data Add Sheet'!I43,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "OEE",
+    "label": "For The Month (FTM)",
+    "unit": "Percentage",
+    "examples": [
+      {
+        "cell": "D5",
+        "formula": "=IF((D3<>\"\")*AND(D4<>\"\"),D3/D4*100,\"\")"
+      },
+      {
+        "cell": "E5",
+        "formula": "=IF((E3<>\"\")*AND(E4<>\"\"),E3/E4*100,\"\")"
+      },
+      {
+        "cell": "F5",
+        "formula": "=IF((F3<>\"\")*AND(F4<>\"\"),F3/F4*100,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "OEE",
+    "label": "Machine hours available in working condition per shift (Cum.)",
+    "unit": "Cumulative",
+    "examples": [
+      {
+        "cell": "D6",
+        "formula": "=IF(D3<>\"\",D3,\"\")"
+      },
+      {
+        "cell": "E6",
+        "formula": "=IF((E3<>\"\")*AND(D6<>\"\"),D6+E3,\"\")"
+      },
+      {
+        "cell": "F6",
+        "formula": "=IF((F3<>\"\")*AND(E6<>\"\"),E6+F3,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "OEE",
+    "label": "Total machine hours capacity per shift (Cum.)",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D7",
+        "formula": "=IF(D4<>\"\",D4,\"\")"
+      },
+      {
+        "cell": "E7",
+        "formula": "=IF((E4<>\"\")*AND(D7<>\"\"),D7+E4,\"\")"
+      },
+      {
+        "cell": "F7",
+        "formula": "=IF((F4<>\"\")*AND(E7<>\"\"),E7+F4,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "OEE",
+    "label": "Year To Date (YTD)",
+    "unit": "Percentage",
+    "examples": [
+      {
+        "cell": "D8",
+        "formula": "=IF((D6<>\"\")*AND(D7<>\"\"),D6/D7*100,\"\")"
+      },
+      {
+        "cell": "E8",
+        "formula": "=IF((E6<>\"\")*AND(E7<>\"\"),E6/E7*100,\"\")"
+      },
+      {
+        "cell": "F8",
+        "formula": "=IF((F6<>\"\")*AND(F7<>\"\"),F6/F7*100,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "OEE",
+    "label": "Actual quantity produced per shift",
+    "unit": "(Nos)",
+    "examples": [
+      {
+        "cell": "D10",
+        "formula": "=IF('Data Add Sheet'!G44<>\"\",'Data Add Sheet'!G44,\"\")"
+      },
+      {
+        "cell": "E10",
+        "formula": "=IF('Data Add Sheet'!H44<>\"\",'Data Add Sheet'!H44,\"\")"
+      },
+      {
+        "cell": "F10",
+        "formula": "=IF('Data Add Sheet'!I44<>\"\",'Data Add Sheet'!I44,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "OEE",
+    "label": "Standard Production per shift",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D11",
+        "formula": "=IF('Data Add Sheet'!G45<>\"\",'Data Add Sheet'!G45,\"\")"
+      },
+      {
+        "cell": "E11",
+        "formula": "=IF('Data Add Sheet'!H45<>\"\",'Data Add Sheet'!H45,\"\")"
+      },
+      {
+        "cell": "F11",
+        "formula": "=IF('Data Add Sheet'!I45<>\"\",'Data Add Sheet'!I45,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "OEE",
+    "label": "For The Month (FTM)",
+    "unit": "Percentage",
+    "examples": [
+      {
+        "cell": "D12",
+        "formula": "=IF((D10<>\"\")*AND(D11<>\"\"),D10/D11*100,\"\")"
+      },
+      {
+        "cell": "E12",
+        "formula": "=IF((E10<>\"\")*AND(E11<>\"\"),E10/E11*100,\"\")"
+      },
+      {
+        "cell": "F12",
+        "formula": "=IF((F10<>\"\")*AND(F11<>\"\"),F10/F11*100,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "OEE",
+    "label": "Actual quantity produced per shift (Cum.)",
+    "unit": "Cumulative",
+    "examples": [
+      {
+        "cell": "D13",
+        "formula": "=IF(D10<>\"\",D10,\"\")"
+      },
+      {
+        "cell": "E13",
+        "formula": "=IF((E10<>\"\")*AND(D13<>\"\"),D13+E10,\"\")"
+      },
+      {
+        "cell": "F13",
+        "formula": "=IF((F10<>\"\")*AND(E13<>\"\"),E13+F10,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "OEE",
+    "label": "Standard Production per shift (Cum.)",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D14",
+        "formula": "=IF(D11<>\"\",D11,\"\")"
+      },
+      {
+        "cell": "E14",
+        "formula": "=IF((E11<>\"\")*AND(D14<>\"\"),D14+E11,\"\")"
+      },
+      {
+        "cell": "F14",
+        "formula": "=IF((F11<>\"\")*AND(E14<>\"\"),E14+F11,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "OEE",
+    "label": "Year To Date (YTD)",
+    "unit": "Percentage",
+    "examples": [
+      {
+        "cell": "D15",
+        "formula": "=IF((D13<>\"\")*AND(D14<>\"\"),D13/D14*100,\"\")"
+      },
+      {
+        "cell": "E15",
+        "formula": "=IF((E13<>\"\")*AND(E14<>\"\"),E13/E14*100,\"\")"
+      },
+      {
+        "cell": "F15",
+        "formula": "=IF((F13<>\"\")*AND(F14<>\"\"),F13/F14*100,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "OEE",
+    "label": "Quantity of OK products produced per shift",
+    "unit": "(Nos)",
+    "examples": [
+      {
+        "cell": "D17",
+        "formula": "=IF('Data Add Sheet'!G46<>\"\",'Data Add Sheet'!G46,\"\")"
+      },
+      {
+        "cell": "E17",
+        "formula": "=IF('Data Add Sheet'!H46<>\"\",'Data Add Sheet'!H46,\"\")"
+      },
+      {
+        "cell": "F17",
+        "formula": "=IF('Data Add Sheet'!I46<>\"\",'Data Add Sheet'!I46,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "OEE",
+    "label": "Total quantity of production per shift",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D18",
+        "formula": "=IF('Data Add Sheet'!G47<>\"\",'Data Add Sheet'!G47,\"\")"
+      },
+      {
+        "cell": "E18",
+        "formula": "=IF('Data Add Sheet'!H47<>\"\",'Data Add Sheet'!H47,\"\")"
+      },
+      {
+        "cell": "F18",
+        "formula": "=IF('Data Add Sheet'!I47<>\"\",'Data Add Sheet'!I47,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "OEE",
+    "label": "For The Month (FTM)",
+    "unit": "Percentage",
+    "examples": [
+      {
+        "cell": "D19",
+        "formula": "=IF((D17<>\"\")*AND(D18<>\"\"),D17/D18*100,\"\")"
+      },
+      {
+        "cell": "E19",
+        "formula": "=IF((E17<>\"\")*AND(E18<>\"\"),E17/E18*100,\"\")"
+      },
+      {
+        "cell": "F19",
+        "formula": "=IF((F17<>\"\")*AND(F18<>\"\"),F17/F18*100,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "OEE",
+    "label": "Quantity of OK products produced per shift (Cum.)",
+    "unit": "Cumulative",
+    "examples": [
+      {
+        "cell": "D20",
+        "formula": "=IF(D17<>\"\",D17,\"\")"
+      },
+      {
+        "cell": "E20",
+        "formula": "=IF((E17<>\"\")*AND(D20<>\"\"),D20+E17,\"\")"
+      },
+      {
+        "cell": "F20",
+        "formula": "=IF((F17<>\"\")*AND(E20<>\"\"),E20+F17,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "OEE",
+    "label": "Total quantity of production per shift (Cum.)",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D21",
+        "formula": "=IF(D18<>\"\",D18,\"\")"
+      },
+      {
+        "cell": "E21",
+        "formula": "=IF((E18<>\"\")*AND(D21<>\"\"),D21+E18,\"\")"
+      },
+      {
+        "cell": "F21",
+        "formula": "=IF((F18<>\"\")*AND(E21<>\"\"),E21+F18,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "OEE",
+    "label": "Year To Date (YTD)",
+    "unit": "Percentage",
+    "examples": [
+      {
+        "cell": "D22",
+        "formula": "=IF((D20<>\"\")*AND(D21<>\"\"),D20/D21*100,\"\")"
+      },
+      {
+        "cell": "E22",
+        "formula": "=IF((E20<>\"\")*AND(E21<>\"\"),E20/E21*100,\"\")"
+      },
+      {
+        "cell": "F22",
+        "formula": "=IF((F20<>\"\")*AND(F21<>\"\"),F20/F21*100,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "OEE",
+    "label": "OEE For The Month (FTM)",
+    "unit": "Percentage",
+    "examples": [
+      {
+        "cell": "D23",
+        "formula": "=IF((D5<>\"\")*AND(D12<>\"\")*AND(D19<>\"\")*AND(D10<>\"\"),D5*D12*D19/10000,\"\")"
+      },
+      {
+        "cell": "E23",
+        "formula": "=IF((E5<>\"\")*AND(E12<>\"\")*AND(E19<>\"\")*AND(E10<>\"\"),E5*E12*E19/10000,\"\")"
+      },
+      {
+        "cell": "F23",
+        "formula": "=IF((F5<>\"\")*AND(F12<>\"\")*AND(F19<>\"\")*AND(F10<>\"\"),F5*F12*F19/10000,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "OEE",
+    "label": "OEE Year To Date (YTD)",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D24",
+        "formula": "=IF((D8<>\"\")*AND(D15<>\"\")*AND(D22<>\"\")*AND(D11<>\"\"),D8*D15*D22/10000,\"\")"
+      },
+      {
+        "cell": "E24",
+        "formula": "=IF((E8<>\"\")*AND(E15<>\"\")*AND(E22<>\"\")*AND(E11<>\"\"),E8*E15*E22/10000,\"\")"
+      },
+      {
+        "cell": "F24",
+        "formula": "=IF((F8<>\"\")*AND(F15<>\"\")*AND(F22<>\"\")*AND(F11<>\"\"),F8*F15*F22/10000,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "OEE",
+    "label": "OEE For The Month (FTM)",
+    "unit": "Percentage",
+    "examples": [
+      {
+        "cell": "D25",
+        "formula": "=IF(D23<>\"\",D23,NA())"
+      },
+      {
+        "cell": "E25",
+        "formula": "=IF(E23<>\"\",E23,NA())"
+      },
+      {
+        "cell": "F25",
+        "formula": "=IF(F23<>\"\",F23,NA())"
+      }
+    ]
+  },
+  {
+    "sheet": "OEE",
+    "label": "OEE Year To Date (YTD)",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D26",
+        "formula": "=IF(D24<>\"\",D24,NA())"
+      },
+      {
+        "cell": "E26",
+        "formula": "=IF(E24<>\"\",E24,NA())"
+      },
+      {
+        "cell": "F26",
+        "formula": "=IF(F24<>\"\",F24,NA())"
+      }
+    ]
+  },
+  {
+    "sheet": "OEE",
+    "label": "Target",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D27",
+        "formula": "=IFERROR(IF('KPIs Dashboard'!D285<>\"\",'KPIs Dashboard'!D285,NA()),\" \")"
+      },
+      {
+        "cell": "E27",
+        "formula": "=IFERROR(IF('KPIs Dashboard'!E285<>\"\",'KPIs Dashboard'!E285,NA()),\" \")"
+      },
+      {
+        "cell": "F27",
+        "formula": "=IFERROR(IF('KPIs Dashboard'!F285<>\"\",'KPIs Dashboard'!F285,NA()),\" \")"
+      }
+    ]
+  },
+  {
+    "sheet": "On-time Delivery ",
+    "label": "No. of customer orders delivered on time in full qty.",
+    "unit": "(Nos)",
+    "examples": [
+      {
+        "cell": "D3",
+        "formula": "=IF('Data Add Sheet'!G40<>\"\",'Data Add Sheet'!G40,\"\")"
+      },
+      {
+        "cell": "E3",
+        "formula": "=IF('Data Add Sheet'!H40<>\"\",'Data Add Sheet'!H40,\"\")"
+      },
+      {
+        "cell": "F3",
+        "formula": "=IF('Data Add Sheet'!I40<>\"\",'Data Add Sheet'!I40,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "On-time Delivery ",
+    "label": "Total No. of Orders to be delivered for the month",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D4",
+        "formula": "=IF('Data Add Sheet'!G41<>\"\",'Data Add Sheet'!G41,\"\")"
+      },
+      {
+        "cell": "E4",
+        "formula": "=IF('Data Add Sheet'!H41<>\"\",'Data Add Sheet'!H41,\"\")"
+      },
+      {
+        "cell": "F4",
+        "formula": "=IF('Data Add Sheet'!I41<>\"\",'Data Add Sheet'!I41,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "On-time Delivery ",
+    "label": "For The Month (FTM)",
+    "unit": "Percentage- % ",
+    "examples": [
+      {
+        "cell": "D5",
+        "formula": "=IF((D4<>\"\")*AND(D3<>\"\"),D3/D4*100,\"\")"
+      },
+      {
+        "cell": "E5",
+        "formula": "=IF((E4<>\"\")*AND(E3<>\"\"),E3/E4*100,\"\")"
+      },
+      {
+        "cell": "F5",
+        "formula": "=IF((F4<>\"\")*AND(F3<>\"\"),F3/F4*100,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "On-time Delivery ",
+    "label": "No. of customer orders delivered on time in full qty. (Cum.)",
+    "unit": "Cumulative",
+    "examples": [
+      {
+        "cell": "D6",
+        "formula": "=IF(D3<>\"\",D3,\"\")"
+      },
+      {
+        "cell": "E6",
+        "formula": "=IF(AND(E3<>\"\",D6<>\"\"),E3+D6,\"\")"
+      },
+      {
+        "cell": "F6",
+        "formula": "=IF(AND(F3<>\"\",E6<>\"\"),F3+E6,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "On-time Delivery ",
+    "label": "Total No. of Orders to be delivered for the month (Cum.)",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D7",
+        "formula": "=IF(D4<>\"\",D4,\"\")"
+      },
+      {
+        "cell": "E7",
+        "formula": "=IF(AND(E4<>\"\",D7<>\"\"),E4+D7,\"\")"
+      },
+      {
+        "cell": "F7",
+        "formula": "=IF(AND(F4<>\"\",E7<>\"\"),F4+E7,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "On-time Delivery ",
+    "label": "Year To Date (YTD)",
+    "unit": "Percentage- % ",
+    "examples": [
+      {
+        "cell": "D8",
+        "formula": "=IF((D6<>\"\")*AND(D7<>\"\"),D6/D7*100,\"\")"
+      },
+      {
+        "cell": "E8",
+        "formula": "=IF((E6<>\"\")*AND(E7<>\"\"),E6/E7*100,\"\")"
+      },
+      {
+        "cell": "F8",
+        "formula": "=IF((F6<>\"\")*AND(F7<>\"\"),F6/F7*100,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "On-time Delivery ",
+    "label": "For The Month (FTM)",
+    "unit": "Percentage- % ",
+    "examples": [
+      {
+        "cell": "D10",
+        "formula": "=IF(D5<>\"\",D5,NA())"
+      },
+      {
+        "cell": "E10",
+        "formula": "=IF(E5<>\"\",E5,NA())"
+      },
+      {
+        "cell": "F10",
+        "formula": "=IF(F5<>\"\",F5,NA())"
+      }
+    ]
+  },
+  {
+    "sheet": "On-time Delivery ",
+    "label": "Year To Date (YTD)",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D11",
+        "formula": "=IF(D8<>\"\",D8,NA())"
+      },
+      {
+        "cell": "E11",
+        "formula": "=IF(E8<>\"\",E8,NA())"
+      },
+      {
+        "cell": "F11",
+        "formula": "=IF(F8<>\"\",F8,NA())"
+      }
+    ]
+  },
+  {
+    "sheet": "On-time Delivery ",
+    "label": "Target",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D12",
+        "formula": "=IFERROR(IF('KPIs Dashboard'!D268<>\"\",'KPIs Dashboard'!D268,NA()),\" \")"
+      },
+      {
+        "cell": "E12",
+        "formula": "=IFERROR(IF('KPIs Dashboard'!E268<>\"\",'KPIs Dashboard'!E268,NA()),\" \")"
+      },
+      {
+        "cell": "F12",
+        "formula": "=IFERROR(IF('KPIs Dashboard'!F268<>\"\",'KPIs Dashboard'!F268,NA()),\" \")"
+      }
+    ]
+  },
+  {
+    "sheet": "Savings (Lean) ",
+    "label": "Savings in Raw Material (Rs.)",
+    "unit": "(In Rs.)",
+    "examples": [
+      {
+        "cell": "D3",
+        "formula": "=IF('Data Add Sheet'!G19<>\"\",'Data Add Sheet'!G19,\"\")"
+      },
+      {
+        "cell": "E3",
+        "formula": "=IF('Data Add Sheet'!H19<>\"\",'Data Add Sheet'!H19,\"\")"
+      },
+      {
+        "cell": "F3",
+        "formula": "=IF('Data Add Sheet'!I19<>\"\",'Data Add Sheet'!I19,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Savings (Lean) ",
+    "label": "Savings in RM due to Reduced Rejection (Rs.)",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D4",
+        "formula": "=IF('Data Add Sheet'!G20<>\"\",'Data Add Sheet'!G20,\"\")"
+      },
+      {
+        "cell": "E4",
+        "formula": "=IF('Data Add Sheet'!H20<>\"\",'Data Add Sheet'!H20,\"\")"
+      },
+      {
+        "cell": "F4",
+        "formula": "=IF('Data Add Sheet'!I20<>\"\",'Data Add Sheet'!I20,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Savings (Lean) ",
+    "label": "Savings due to Process Improvement (In Rs.)",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D5",
+        "formula": "=IF('Data Add Sheet'!G21<>\"\",'Data Add Sheet'!G21,\"\")"
+      },
+      {
+        "cell": "E5",
+        "formula": "=IF('Data Add Sheet'!H21<>\"\",'Data Add Sheet'!H21,\"\")"
+      },
+      {
+        "cell": "F5",
+        "formula": "=IF('Data Add Sheet'!I21<>\"\",'Data Add Sheet'!I21,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Savings (Lean) ",
+    "label": "Savings in 5S (Rs.)",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D6",
+        "formula": "=IF('Data Add Sheet'!G22<>\"\",'Data Add Sheet'!G22,\"\")"
+      },
+      {
+        "cell": "E6",
+        "formula": "=IF('Data Add Sheet'!H22<>\"\",'Data Add Sheet'!H22,\"\")"
+      },
+      {
+        "cell": "F6",
+        "formula": "=IF('Data Add Sheet'!I22<>\"\",'Data Add Sheet'!I22,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Savings (Lean) ",
+    "label": "Savings in Kaizens (Rs.)",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D7",
+        "formula": "=IF('Data Add Sheet'!G23<>\"\",'Data Add Sheet'!G23,\"\")"
+      },
+      {
+        "cell": "E7",
+        "formula": "=IF('Data Add Sheet'!H23<>\"\",'Data Add Sheet'!H23,\"\")"
+      },
+      {
+        "cell": "F7",
+        "formula": "=IF('Data Add Sheet'!I23<>\"\",'Data Add Sheet'!I23,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Savings (Lean) ",
+    "label": "Other misc. savings. (Rs.)",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D8",
+        "formula": "=IF('Data Add Sheet'!G24<>\"\",'Data Add Sheet'!G24,\"\")"
+      },
+      {
+        "cell": "E8",
+        "formula": "=IF('Data Add Sheet'!H24<>\"\",'Data Add Sheet'!H24,\"\")"
+      },
+      {
+        "cell": "F8",
+        "formula": "=IF('Data Add Sheet'!I24<>\"\",'Data Add Sheet'!I24,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Savings (Lean) ",
+    "label": "For The Month (FTM)",
+    "unit": "(In Rs.)",
+    "examples": [
+      {
+        "cell": "D9",
+        "formula": "=IF(OR(D3<>\"\",D4<>\"\",D8<>\"\"),SUM(D3:D8),\"\")"
+      },
+      {
+        "cell": "E9",
+        "formula": "=IF(OR(E3<>\"\",E4<>\"\",E8<>\"\"),SUM(E3:E8),\"\")"
+      },
+      {
+        "cell": "F9",
+        "formula": "=IF(OR(F3<>\"\",F4<>\"\",F8<>\"\"),SUM(F3:F8),\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Savings (Lean) ",
+    "label": "Savings in Raw Material (Rs.)",
+    "unit": "Cumulative",
+    "examples": [
+      {
+        "cell": "D10",
+        "formula": "=IF(D3<>\"\",D3,\"\")"
+      },
+      {
+        "cell": "E10",
+        "formula": "=IFERROR(IF(AND((E3<>\"\"),(D10<>\"\")),D10+E3,\"\"),\"\")"
+      },
+      {
+        "cell": "F10",
+        "formula": "=IFERROR(IF(AND((F3<>\"\"),(E10<>\"\")),E10+F3,\"\"),\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Savings (Lean) ",
+    "label": "Savings in RM due to Reduced Rejection (Rs.)",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D11",
+        "formula": "=IF(D4<>\"\",D4,\"\")"
+      },
+      {
+        "cell": "E11",
+        "formula": "=IFERROR(IF(AND((E4<>\"\"),(D11<>\"\")),D11+E4,\"\"),\"\")"
+      },
+      {
+        "cell": "F11",
+        "formula": "=IFERROR(IF(AND((F4<>\"\"),(E11<>\"\")),E11+F4,\"\"),\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Savings (Lean) ",
+    "label": "Savings due to Process Improvement (In Rs.)",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D12",
+        "formula": "=IF(D5<>\"\",D5,\"\")"
+      },
+      {
+        "cell": "E12",
+        "formula": "=IFERROR(IF(AND((E5<>\"\"),(D12<>\"\")),D12+E5,\"\"),\"\")"
+      },
+      {
+        "cell": "F12",
+        "formula": "=IFERROR(IF(AND((F5<>\"\"),(E12<>\"\")),E12+F5,\"\"),\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Savings (Lean) ",
+    "label": "Savings in 5S (Rs.)",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D13",
+        "formula": "=IF(D6<>\"\",D6,\"\")"
+      },
+      {
+        "cell": "E13",
+        "formula": "=IFERROR(IF(AND((E6<>\"\"),(D13<>\"\")),D13+E6,\"\"),\"\")"
+      },
+      {
+        "cell": "F13",
+        "formula": "=IFERROR(IF(AND((F6<>\"\"),(E13<>\"\")),E13+F6,\"\"),\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Savings (Lean) ",
+    "label": "Savings in Kaizens (Rs.)",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D14",
+        "formula": "=IF(D7<>\"\",D7,\"\")"
+      },
+      {
+        "cell": "E14",
+        "formula": "=IFERROR(IF(AND((E7<>\"\"),(D14<>\"\")),D14+E7,\"\"),\"\")"
+      },
+      {
+        "cell": "F14",
+        "formula": "=IFERROR(IF(AND((F7<>\"\"),(E14<>\"\")),E14+F7,\"\"),\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Savings (Lean) ",
+    "label": "Other misc. savings. (Rs.)",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D15",
+        "formula": "=IF(D8<>\"\",D8,\"\")"
+      },
+      {
+        "cell": "E15",
+        "formula": "=IFERROR(IF(AND((E8<>\"\"),(D15<>\"\")),D15+E8,\"\"),\"\")"
+      },
+      {
+        "cell": "F15",
+        "formula": "=IFERROR(IF(AND((F8<>\"\"),(E15<>\"\")),E15+F8,\"\"),\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Savings (Lean) ",
+    "label": "Year To Date (YTD)",
+    "unit": "(In Rs.)",
+    "examples": [
+      {
+        "cell": "D16",
+        "formula": "=IF(D9<>\"\",D9,\"\")"
+      },
+      {
+        "cell": "E16",
+        "formula": "=IFERROR(IF(AND((E9<>\"\"),(D16<>\"\")),D16+E9,\"\"),\"\")"
+      },
+      {
+        "cell": "F16",
+        "formula": "=IFERROR(IF(AND((F9<>\"\"),(E16<>\"\")),E16+F9,\"\"),\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "No. of Kaizens ",
+    "label": "Manual Kaizen",
+    "unit": "(Nos)",
+    "examples": [
+      {
+        "cell": "D3",
+        "formula": "=IF('Data Add Sheet'!G33<>\"\",'Data Add Sheet'!G33,\"\")"
+      },
+      {
+        "cell": "E3",
+        "formula": "=IF('Data Add Sheet'!H33<>\"\",'Data Add Sheet'!H33,\"\")"
+      },
+      {
+        "cell": "F3",
+        "formula": "=IF('Data Add Sheet'!I33<>\"\",'Data Add Sheet'!I33,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "No. of Kaizens ",
+    "label": "Machine Kaizen",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D4",
+        "formula": "=IF('Data Add Sheet'!G34<>\"\",'Data Add Sheet'!G34,\"\")"
+      },
+      {
+        "cell": "E4",
+        "formula": "=IF('Data Add Sheet'!H34<>\"\",'Data Add Sheet'!H34,\"\")"
+      },
+      {
+        "cell": "F4",
+        "formula": "=IF('Data Add Sheet'!I34<>\"\",'Data Add Sheet'!I34,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "No. of Kaizens ",
+    "label": "Process Kaizen",
+    "unit": null,
+    "examples": [
+      {
+        "cell": "D5",
+        "formula": "=IF('Data Add Sheet'!G35<>\"\",'Data Add Sheet'!G35,\"\")"
+      },
+      {
+        "cell": "E5",
+        "formula": "=IF('Data Add Sheet'!H35<>\"\",'Data Add Sheet'!H35,\"\")"
+      },
+      {
+        "cell": "F5",
+        "formula": "=IF('Data Add Sheet'!I35<>\"\",'Data Add Sheet'!I35,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "No. of Kaizens ",
+    "label": "For The Month (FTM) Kaizens completed",
+    "unit": "(Nos)",
+    "examples": [
+      {
+        "cell": "D6",
+        "formula": "=IF(OR(D3<>\"\",D4<>\"\",D5<>\"\"),SUM(D3:D5),\"\")"
+      },
+      {
+        "cell": "E6",
+        "formula": "=IF(OR(E3<>\"\",E4<>\"\",E5<>\"\"),SUM(E3:E5),\"\")"
+      },
+      {
+        "cell": "F6",
+        "formula": "=IF(OR(F3<>\"\",F4<>\"\",F5<>\"\"),SUM(F3:F5),\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "No. of Kaizens ",
+    "label": "For The Month (FTM)",
+    "unit": "(Nos)",
+    "examples": [
+      {
+        "cell": "D8",
+        "formula": "=IF(D6<>\"\",D6,NA())"
+      },
+      {
+        "cell": "E8",
+        "formula": "=IF(E6<>\"\",E6,NA())"
+      },
+      {
+        "cell": "F8",
+        "formula": "=IF(F6<>\"\",F6,NA())"
+      }
+    ]
+  },
+  {
+    "sheet": "HR Development",
+    "label": "5S",
+    "unit": 1.0,
+    "examples": [
+      {
+        "cell": "F4",
+        "formula": "=if(and(D4<>\"\",E4<>\"\"),D4*E4,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "HR Development",
+    "label": "Others - 8 Waste",
+    "unit": 2.0,
+    "examples": [
+      {
+        "cell": "F5",
+        "formula": "=if(and(D5<>\"\",E5<>\"\"),D5*E5,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "HR Development",
+    "label": "Kaizen",
+    "unit": 3.0,
+    "examples": [
+      {
+        "cell": "F6",
+        "formula": "=if(and(D6<>\"\",E6<>\"\"),D6*E6,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "HR Development",
+    "label": "Visual Control/ Visual Management",
+    "unit": 4.0,
+    "examples": [
+      {
+        "cell": "F7",
+        "formula": "=if(and(D7<>\"\",E7<>\"\"),D7*E7,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "HR Development",
+    "label": "SOPs",
+    "unit": 5.0,
+    "examples": [
+      {
+        "cell": "F8",
+        "formula": "=if(and(D8<>\"\",E8<>\"\"),D8*E8,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "HR Development",
+    "label": "Others - Daily Work Management",
+    "unit": 6.0,
+    "examples": [
+      {
+        "cell": "F9",
+        "formula": "=if(and(D9<>\"\",E9<>\"\"),D9*E9,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "HR Development",
+    "label": "Others - 8 Waste",
+    "unit": 1.0,
+    "examples": [
+      {
+        "cell": "F15",
+        "formula": "=if(and(D15<>\"\",E15<>\"\"),D15*E15,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "HR Development",
+    "label": "Basics of lean",
+    "unit": 2.0,
+    "examples": [
+      {
+        "cell": "F16",
+        "formula": "=if(and(D16<>\"\",E16<>\"\"),D16*E16,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "HR Development",
+    "label": "Quality Improvement/ Poka-Yoke",
+    "unit": 3.0,
+    "examples": [
+      {
+        "cell": "F17",
+        "formula": "=if(and(D17<>\"\",E17<>\"\"),D17*E17,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Floor Area Freed up ",
+    "label": "Floor space freed-up by employing lean tools (in sq. m)",
+    "unit": "(Nos)",
+    "examples": [
+      {
+        "cell": "D3",
+        "formula": "=IF('Data Add Sheet'!G48<>\"\",'Data Add Sheet'!G48,\"\")"
+      },
+      {
+        "cell": "E3",
+        "formula": "=IF('Data Add Sheet'!H48<>\"\",'Data Add Sheet'!H48,\"\")"
+      },
+      {
+        "cell": "F3",
+        "formula": "=IF('Data Add Sheet'!I48<>\"\",'Data Add Sheet'!I48,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Floor Area Freed up ",
+    "label": "For The Month (FTM)",
+    "unit": "(Sq. Mtr) ",
+    "examples": [
+      {
+        "cell": "D4",
+        "formula": "=IF(D3<>\"\",D3,\"\")"
+      },
+      {
+        "cell": "E4",
+        "formula": "=IF(E3<>\"\",E3,\"\")"
+      },
+      {
+        "cell": "F4",
+        "formula": "=IF(F3<>\"\",F3,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Floor Area Freed up ",
+    "label": "Year To Date (YTD)",
+    "unit": "Cumulative",
+    "examples": [
+      {
+        "cell": "D5",
+        "formula": "=IF(D4<>\"\",D4,\"\")"
+      },
+      {
+        "cell": "E5",
+        "formula": "=IF((D5<>\"\")*AND(E3<>\"\"),D5+E3,\"\")"
+      },
+      {
+        "cell": "F5",
+        "formula": "=IF((E5<>\"\")*AND(F3<>\"\"),E5+F3,\"\")"
+      }
+    ]
+  },
+  {
+    "sheet": "Floor Area Freed up ",
+    "label": "For The Month (FTM)",
+    "unit": "(Sq. Mtr) ",
+    "examples": [
+      {
+        "cell": "D7",
+        "formula": "=IF(D4<>\"\",D4,NA())"
+      },
+      {
+        "cell": "E7",
+        "formula": "=IF(E4<>\"\",E4,NA())"
+      },
+      {
+        "cell": "F7",
+        "formula": "=IF(F4<>\"\",F4,NA())"
+      }
+    ]
+  }
+]
